@@ -28,7 +28,7 @@ PUT file://data/GONG_DATA.json @GONG_DATA_STAGE/transcripts/;
 */
 
 -- Upload files to the stage
--- IMPORTANT: Replace {REPO_PATH} with the absolute path to your vanta-si-aisql repository
+-- IMPORTANT: Replace {REPO_PATH} with the absolute path to your phantom-sec-si-aisql repository
 -- The data files are located in the /data subdirectory of the repository
 PUT file://data/GONG_USERS.json @GONG_DATA_STAGE/users/;
 PUT file://data/GONG_DATA.json @GONG_DATA_STAGE/transcripts/;
