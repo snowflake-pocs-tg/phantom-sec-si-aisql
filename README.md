@@ -1,4 +1,5 @@
-# Phantom Sec SI AI SQL Tools
+# Phantom Sec  
+## Snowflake Intelligence & AISQL Tools
 
 A comprehensive collection of Snowflake SQL tools and procedures for AI-powered data analysis, focusing on sales call transcripts, competitive intelligence, and Snowflake Intelligence platform integration.
 
