@@ -1,0 +1,4286 @@
+{
+  "requestId": "vanta_discovery_8k2n4m6p8q0s2u4w",
+  "records": {
+    "totalRecords": 10,
+    "currentPageSize": 10,
+    "currentPageNumber": 0,
+    "cursor": "eyJhbGciOiJIUzI1NiJ9.eyJjYWxsSWQiOiI5ODc2NTQzMjEwOTg3NjU0In0.k2N4m6P8q0S2u4W6y8A0c2E4"
+  },
+  "callTranscripts": [
+    {
+      "callId": "9876543210987654",
+      "transcript": [
+        {
+          "speakerId": "7829384756102938",
+          "topic": "Call Setup",
+          "sentences": [
+            {
+              "start": 2100,
+              "end": 6800,
+              "text": "Hi David, thanks for joining. Can you see my screen okay?"
+            },
+            {
+              "start": 7200,
+              "end": 11400,
+              "text": "Perfect. I'm Alex from Phantom Sec, and I'm excited to learn about your compliance needs."
+            }
+          ]
+        },
+        {
+          "speakerId": "4923857610293847",
+          "topic": "Call Setup",
+          "sentences": [
+            {
+              "start": 12000,
+              "end": 15300,
+              "text": "Yes, I can see everything clearly. Thanks for reaching out, Alex."
+            },
+            {
+              "start": 15800,
+              "end": 19200,
+              "text": "I'm David, the CISO here at TechGuard Solutions."
+            }
+          ]
+        },
+        {
+          "speakerId": "7829384756102938",
+          "topic": "Small Talk",
+          "sentences": [
+            {
+              "start": 20000,
+              "end": 24500,
+              "text": "Great to meet you, David. I saw you're based in Austin - how's the weather there?"
+            }
+          ]
+        },
+        {
+          "speakerId": "4923857610293847",
+          "topic": "Small Talk",
+          "sentences": [
+            {
+              "start": 25200,
+              "end": 29800,
+              "text": "It's actually beautiful today, about 75 degrees. Much better than last week's heat wave!"
+            },
+            {
+              "start": 30400,
+              "end": 34100,
+              "text": "Are you calling from San Francisco?"
+            }
+          ]
+        },
+        {
+          "speakerId": "7829384756102938",
+          "topic": "Small Talk",
+          "sentences": [
+            {
+              "start": 34800,
+              "end": 39200,
+              "text": "Yes, typical foggy morning here. Austin sounds much nicer!"
+            },
+            {
+              "start": 39800,
+              "end": 45300,
+              "text": "So David, I'd love to understand what brought you to explore compliance automation solutions."
+            }
+          ]
+        },
+        {
+          "speakerId": "4923857610293847",
+          "topic": "Small Talk",
+          "sentences": [
+            {
+              "start": 46100,
+              "end": 54800,
+              "text": "Well, we're a growing cybersecurity company, about 200 employees now, and our enterprise customers are requiring SOC 2 and ISO 27001."
+            },
+            {
+              "start": 55400,
+              "end": 64200,
+              "text": "We're currently using Secureframe, but honestly, we're spending way too much time on manual processes even with their platform."
+            },
+            {
+              "start": 64800,
+              "end": 72300,
+              "text": "Their expert guidance is helpful, but we need more automation. Our team is technical and doesn't need as much hand-holding."
+            },
+            {
+              "start": 72900,
+              "end": 81700,
+              "text": "We've been with them for about 8 months now, and while they got us through our initial SOC 2, the ongoing maintenance is killing us."
+            },
+            {
+              "start": 82300,
+              "end": 89800,
+              "text": "Every month we're manually uploading evidence, taking screenshots, and their integration gaps mean we're writing scripts."
+            }
+          ]
+        },
+        {
+          "speakerId": "7829384756102938",
+          "topic": "Small Talk",
+          "sentences": [
+            {
+              "start": 90600,
+              "end": 96100,
+              "text": "I hear that a lot from companies switching from Secureframe. What specific manual processes are taking up time?"
+            },
+            {
+              "start": 96700,
+              "end": 102200,
+              "text": "And when you mention integration gaps, which tools are you struggling to connect?"
+            }
+          ]
+        },
+        {
+          "speakerId": "4923857610293847",
+          "topic": "Small Talk",
+          "sentences": [
+            {
+              "start": 103000,
+              "end": 111800,
+              "text": "Evidence collection is still pretty manual. We have to upload screenshots and documents regularly instead of having continuous monitoring."
+            },
+            {
+              "start": 112400,
+              "end": 121200,
+              "text": "Also, their integration library is limited. We use some tools that aren't supported, so we're building custom scripts to bridge the gaps."
+            },
+            {
+              "start": 121800,
+              "end": 129300,
+              "text": "We also looked at Drata, but their platform seemed overly complex for what we need, and the pricing was significantly higher."
+            },
+            {
+              "start": 129900,
+              "end": 138700,
+              "text": "The specific tools we can't integrate are Datadog for monitoring, Linear for issue tracking, and our custom security scanning tools."
+            },
+            {
+              "start": 139300,
+              "end": 147100,
+              "text": "Our engineers estimate they spend about 15-20 hours per week just maintaining these compliance integrations and collecting evidence."
+            },
+            {
+              "start": 147700,
+              "end": 155200,
+              "text": "With Drata, they wanted almost $50,000 annually, and their platform requires a dedicated compliance engineer to manage it."
+            },
+            {
+              "start": 155800,
+              "end": 163300,
+              "text": "We even had a demo with them, and it took them 45 minutes just to explain their dashboard. That's when we knew it wasn't right for us."
+            }
+          ]
+        },
+        {
+          "speakerId": "7829384756102938",
+          "topic": "Small Talk",
+          "sentences": [
+            {
+              "start": 164100,
+              "end": 172900,
+              "text": "That makes complete sense. Phantom Sec actually automates up to 90% of evidence collection with continuous monitoring across all your systems."
+            },
+            {
+              "start": 173500,
+              "end": 182300,
+              "text": "We have over 380 integrations - the most comprehensive in the market - so you won't need those custom scripts anymore."
+            },
+            {
+              "start": 182900,
+              "end": 191700,
+              "text": "And unlike Drata's complexity or Secureframe's manual approach, we balance powerful automation with an intuitive interface."
+            },
+            {
+              "start": 192300,
+              "end": 200100,
+              "text": "I actually have many customers who switched from Secureframe specifically because of the manual burden you're describing."
+            },
+            {
+              "start": 200700,
+              "end": 208500,
+              "text": "One of them, a 250-person SaaS company, reduced their compliance overhead from 30 hours a week to just 3 hours."
+            },
+            {
+              "start": 209100,
+              "end": 216900,
+              "text": "And yes, we support Datadog, Linear, and we have APIs for custom security tools. Everything connects seamlessly."
+            }
+          ]
+        },
+        {
+          "speakerId": "4923857610293847",
+          "topic": "Small Talk",
+          "sentences": [
+            {
+              "start": 217700,
+              "end": 223200,
+              "text": "380 integrations sounds impressive. Do you support tools like PagerDuty and Jira as well?"
+            },
+            {
+              "start": 223800,
+              "end": 229300,
+              "text": "Those are some of the other gaps we're facing with Secureframe right now."
+            },
+            {
+              "start": 229900,
+              "end": 237400,
+              "text": "Also, how does your platform handle custom security policies? We have some unique requirements as a cybersecurity company."
+            },
+            {
+              "start": 238000,
+              "end": 245500,
+              "text": "Secureframe's templates are pretty rigid, and we've had to do a lot of manual customization outside their platform."
+            },
+            {
+              "start": 246100,
+              "end": 253600,
+              "text": "That's another reason we looked at other options. But honestly, everyone seems to have trade-offs."
+            }
+          ]
+        },
+        {
+          "speakerId": "7829384756102938",
+          "topic": "Small Talk",
+          "sentences": [
+            {
+              "start": 254400,
+              "end": 261900,
+              "text": "Yes, we support PagerDuty, Jira, and hundreds more. In fact, we add new integrations every month based on customer requests."
+            },
+            {
+              "start": 262500,
+              "end": 270300,
+              "text": "What really sets us apart is our AI Agent that can guide your team through compliance workflows and automate repetitive tasks."
+            },
+            {
+              "start": 270900,
+              "end": 278700,
+              "text": "This is something unique to Phantom Sec - neither Secureframe nor Drata has this level of AI-powered automation."
+            },
+            {
+              "start": 279300,
+              "end": 287100,
+              "text": "For custom policies, we have a flexible policy editor that lets you create and modify policies while maintaining compliance alignment."
+            },
+            {
+              "start": 287700,
+              "end": 295500,
+              "text": "Many cybersecurity companies use us specifically because we understand the need for customization without sacrificing automation."
+            },
+            {
+              "start": 296100,
+              "end": 303900,
+              "text": "You can inherit from our templates or build completely custom ones. Everything stays within the platform for audit purposes."
+            }
+          ]
+        },
+        {
+          "speakerId": "4923857610293847",
+          "topic": "Small Talk",
+          "sentences": [
+            {
+              "start": 304700,
+              "end": 312200,
+              "text": "The AI Agent sounds interesting. We also evaluated Sprinto - they claim 99% automation. How do you compare?"
+            },
+            {
+              "start": 312800,
+              "end": 320300,
+              "text": "Their sales team was pretty aggressive about that number, but I'm skeptical about what 99% really means."
+            },
+            {
+              "start": 320900,
+              "end": 328400,
+              "text": "We had a technical evaluation with them, and while the automation was impressive, the setup seemed incredibly complex."
+            },
+            {
+              "start": 329000,
+              "end": 336500,
+              "text": "Our engineering team was concerned about the implementation timeline - they quoted us 8-10 weeks just to get started."
+            },
+            {
+              "start": 337100,
+              "end": 344600,
+              "text": "Plus, they're a newer player. We're not sure about their long-term stability, especially for something as critical as compliance."
+            }
+          ]
+        },
+        {
+          "speakerId": "7829384756102938",
+          "topic": "Small Talk",
+          "sentences": [
+            {
+              "start": 345400,
+              "end": 354200,
+              "text": "Great question. While Sprinto does offer high automation, many customers find their interface overwhelming and setup quite complex."
+            },
+            {
+              "start": 354800,
+              "end": 363600,
+              "text": "Our 90% automation is more realistic and sustainable. Plus, we can get you compliant in 4-8 weeks versus their longer timelines."
+            },
+            {
+              "start": 364200,
+              "end": 372000,
+              "text": "We also have better brand recognition, which matters when you're sharing compliance status with your enterprise customers."
+            },
+            {
+              "start": 372600,
+              "end": 380400,
+              "text": "You're absolutely right to be skeptical about 99%. In reality, there will always be some manual oversight required for compliance."
+            },
+            {
+              "start": 381000,
+              "end": 388800,
+              "text": "What we focus on is automating the truly repetitive tasks while giving you control over the strategic decisions."
+            },
+            {
+              "start": 389400,
+              "end": 397200,
+              "text": "As for stability, we've been in this space since 2018, we're well-funded, and we have over 12,000 customers globally."
+            },
+            {
+              "start": 397800,
+              "end": 405600,
+              "text": "Companies like Atlassian, Quora, and Carta trust us with their compliance. That kind of validation took years to build."
+            }
+          ]
+        },
+        {
+          "speakerId": "4923857610293847",
+          "topic": "Small Talk",
+          "sentences": [
+            {
+              "start": 406400,
+              "end": 413900,
+              "text": "That's a good point about brand recognition. What about security questionnaires? We're drowning in those from customers."
+            },
+            {
+              "start": 414500,
+              "end": 422000,
+              "text": "Last month alone, we had 47 security questionnaires. Each one takes our team 2-3 hours to complete properly."
+            },
+            {
+              "start": 422600,
+              "end": 430100,
+              "text": "Secureframe has some questionnaire features, but we still end up copying and pasting from old responses manually."
+            },
+            {
+              "start": 430700,
+              "end": 438200,
+              "text": "It's actually becoming a bottleneck for our sales team. Deals are getting delayed because of questionnaire turnaround times."
+            },
+            {
+              "start": 438800,
+              "end": 446300,
+              "text": "Our VP of Sales is really pushing us to find a solution that can handle these automatically. It's impacting revenue."
+            }
+          ]
+        },
+        {
+          "speakerId": "7829384756102938",
+          "topic": "Small Talk",
+          "sentences": [
+            {
+              "start": 447100,
+              "end": 454900,
+              "text": "Our questionnaire automation is best-in-class with an 80% auto-approval rate using AI-powered responses."
+            },
+            {
+              "start": 455500,
+              "end": 463300,
+              "text": "We also offer Trust Center capabilities where customers can self-serve compliance documentation, reducing questionnaires by 60%."
+            },
+            {
+              "start": 463900,
+              "end": 471700,
+              "text": "This is a major differentiator - most competitors don't have this level of customer-facing trust features."
+            },
+            {
+              "start": 472300,
+              "end": 480100,
+              "text": "For those 47 questionnaires you mentioned, our AI would handle about 38 of them completely automatically."
+            },
+            {
+              "start": 480700,
+              "end": 488500,
+              "text": "The system learns from your previous responses and continuously improves. Most customers see response time drop from hours to minutes."
+            },
+            {
+              "start": 489100,
+              "end": 496900,
+              "text": "One of our customers, a security company like yours, went from 120 hours per month on questionnaires to just 15 hours."
+            },
+            {
+              "start": 497500,
+              "end": 505300,
+              "text": "Neither Secureframe nor Drata has AI questionnaire automation at this level. It's a game-changer for sales velocity."
+            }
+          ]
+        },
+        {
+          "speakerId": "4923857610293847",
+          "topic": "Pricing",
+          "sentences": [
+            {
+              "start": 506100,
+              "end": 511600,
+              "text": "This all sounds great. What kind of investment are we looking at compared to what we're paying now?"
+            },
+            {
+              "start": 512200,
+              "end": 517700,
+              "text": "Secureframe is costing us about $15,000 annually, but we feel we're not getting enough value."
+            },
+            {
+              "start": 518300,
+              "end": 525800,
+              "text": "For context, Drata quoted us $48,000 for similar frameworks, and Sprinto was around $35,000 with their setup fees."
+            },
+            {
+              "start": 526400,
+              "end": 533900,
+              "text": "We have budget approval for up to $50,000 if the solution truly solves our automation and questionnaire problems."
+            },
+            {
+              "start": 534500,
+              "end": 542000,
+              "text": "But it needs to be justified. My CFO is very ROI-focused, especially after our Secureframe experience."
+            }
+          ]
+        },
+        {
+          "speakerId": "7829384756102938",
+          "topic": "Pricing",
+          "sentences": [
+            {
+              "start": 542800,
+              "end": 550600,
+              "text": "For a 200-person company like yours with SOC 2 and ISO 27001, you're looking at approximately $30,000-$40,000 annually."
+            },
+            {
+              "start": 551200,
+              "end": 559000,
+              "text": "While that's more than Secureframe's entry price, you're getting significantly more automation and capabilities."
+            },
+            {
+              "start": 559600,
+              "end": 567400,
+              "text": "Most customers see a 526% ROI over three years when you factor in time savings and faster sales cycles."
+            },
+            {
+              "start": 568000,
+              "end": 575800,
+              "text": "Let me break down the value: You mentioned 15-20 hours per week on compliance. That's roughly $100,000 in engineering costs annually."
+            },
+            {
+              "start": 576400,
+              "end": 584200,
+              "text": "With our 90% automation, you'll reduce that to 2-3 hours per week, saving you about $80,000 per year."
+            },
+            {
+              "start": 584800,
+              "end": 592600,
+              "text": "Add the questionnaire automation saving another 100+ hours monthly, and you're looking at total savings exceeding $150,000 annually."
+            },
+            {
+              "start": 593200,
+              "end": 601000,
+              "text": "So while we're more expensive than Secureframe, we're actually the most cost-effective when you consider the full picture."
+            }
+          ]
+        },
+        {
+          "speakerId": "4923857610293847",
+          "topic": "Pricing",
+          "sentences": [
+            {
+              "start": 601800,
+              "end": 608300,
+              "text": "That's within our budget, especially if it truly reduces our manual work by 90%."
+            },
+            {
+              "start": 608900,
+              "end": 615400,
+              "text": "The ROI makes sense when I think about how much engineering time we're wasting on compliance."
+            },
+            {
+              "start": 616000,
+              "end": 623500,
+              "text": "But I'm concerned about the migration process. We have a lot of data in Secureframe. How complex is the switch?"
+            },
+            {
+              "start": 624100,
+              "end": 631600,
+              "text": "We can't afford to lose our audit history or have gaps in our compliance posture during a transition."
+            }
+          ]
+        },
+        {
+          "speakerId": "7829384756102938",
+          "topic": "Small Talk",
+          "sentences": [
+            {
+              "start": 632400,
+              "end": 639900,
+              "text": "Great question about migration. We have a dedicated migration team that handles Secureframe transitions regularly."
+            },
+            {
+              "start": 640500,
+              "end": 648000,
+              "text": "We'll export all your existing evidence, policies, and audit history. Nothing gets lost in the transition."
+            },
+            {
+              "start": 648600,
+              "end": 656100,
+              "text": "The whole migration typically takes just 2-3 weeks, and we run in parallel with your existing system to ensure no gaps."
+            },
+            {
+              "start": 656700,
+              "end": 664200,
+              "text": "You'll have a dedicated implementation specialist, but the platform is intuitive enough for self-service after that."
+            },
+            {
+              "start": 664800,
+              "end": 672300,
+              "text": "We've migrated hundreds of companies from Secureframe, Drata, and even homegrown systems. It's a smooth process."
+            },
+            {
+              "start": 672900,
+              "end": 680400,
+              "text": "In fact, most customers are surprised at how easy it is. Your team can focus on their work while we handle the technical migration."
+            }
+          ]
+        },
+        {
+          "speakerId": "4923857610293847",
+          "topic": "Next Steps",
+          "sentences": [
+            {
+              "start": 681200,
+              "end": 687700,
+              "text": "That's much faster than what we experienced with Secureframe. Who else needs to be involved in this decision?"
+            },
+            {
+              "start": 688300,
+              "end": 694800,
+              "text": "I'll need to loop in our CTO and CFO, and probably our head of engineering who manages the integrations."
+            },
+            {
+              "start": 695400,
+              "end": 702900,
+              "text": "Our CTO will want to understand the technical architecture and how the AI actually works. He's very detail-oriented."
+            },
+            {
+              "start": 703500,
+              "end": 711000,
+              "text": "The CFO will focus on the ROI and contract terms. She'll probably want to see customer references too."
+            },
+            {
+              "start": 711600,
+              "end": 719100,
+              "text": "What's your typical evaluation process look like? We'd like to make a decision within the next 3-4 weeks if possible."
+            }
+          ]
+        },
+        {
+          "speakerId": "7829384756102938",
+          "topic": "Next Steps",
+          "sentences": [
+            {
+              "start": 719900,
+              "end": 726400,
+              "text": "Perfect timing. I'd love to set up a technical deep-dive with your CTO and engineering lead next week."
+            },
+            {
+              "start": 727000,
+              "end": 733500,
+              "text": "I can show them exactly how our integrations work and how the AI Agent can streamline your workflows."
+            },
+            {
+              "start": 734100,
+              "end": 740600,
+              "text": "I'll also prepare a detailed ROI analysis comparing us to Secureframe to help with the CFO conversation."
+            },
+            {
+              "start": 741200,
+              "end": 748700,
+              "text": "For the 3-4 week timeline, that's very doable. We typically see: Week 1 technical evaluation, Week 2 business case review."
+            },
+            {
+              "start": 749300,
+              "end": 756800,
+              "text": "Week 3 for contract negotiations and references, then Week 4 for final approvals. We can absolutely meet your timeline."
+            },
+            {
+              "start": 757400,
+              "end": 764900,
+              "text": "I'll also connect you with a customer who switched from Secureframe last year. They're a similar size and industry."
+            }
+          ]
+        },
+        {
+          "speakerId": "4923857610293847",
+          "topic": "Next Steps",
+          "sentences": [
+            {
+              "start": 765700,
+              "end": 771200,
+              "text": "That would be excellent. Can we aim for Tuesday or Wednesday next week?"
+            },
+            {
+              "start": 771800,
+              "end": 778300,
+              "text": "And please include information about migrating from Secureframe - I want to understand that process."
+            },
+            {
+              "start": 778900,
+              "end": 786400,
+              "text": "The customer reference would be really valuable. Hearing from someone who's made the switch would help build confidence internally."
+            },
+            {
+              "start": 787000,
+              "end": 794500,
+              "text": "One last question - what about ongoing support? Secureframe's support has been hit or miss for us."
+            }
+          ]
+        },
+        {
+          "speakerId": "7829384756102938",
+          "topic": "Next Steps",
+          "sentences": [
+            {
+              "start": 795300,
+              "end": 801800,
+              "text": "Great question about support. We offer 24/7 support with average response times under 2 hours."
+            },
+            {
+              "start": 802400,
+              "end": 809900,
+              "text": "Unlike Secureframe's email-only support, we have live chat, phone, and a dedicated Slack channel for your team."
+            },
+            {
+              "start": 810500,
+              "end": 818000,
+              "text": "You'll also have a Customer Success Manager who meets with you monthly to ensure you're getting maximum value."
+            },
+            {
+              "start": 818600,
+              "end": 825100,
+              "text": "Tuesday afternoon works perfectly. I'll send the invite for 2 PM your time with all the relevant materials."
+            },
+            {
+              "start": 825700,
+              "end": 832200,
+              "text": "I'll include our migration playbook and that comparison chart showing how we stack up against Secureframe."
+            }
+          ]
+        },
+        {
+          "speakerId": "4923857610293847",
+          "topic": "Wrap-up",
+          "sentences": [
+            {
+              "start": 833000,
+              "end": 838500,
+              "text": "Excellent. This has been really eye-opening, Alex. I had no idea we were missing so much with Secureframe."
+            },
+            {
+              "start": 839100,
+              "end": 844600,
+              "text": "The AI capabilities and questionnaire automation alone could be game-changers for us."
+            },
+            {
+              "start": 845200,
+              "end": 851700,
+              "text": "I'm going to brief my team this afternoon. I think they'll be excited about the possibility of real automation."
+            },
+            {
+              "start": 852300,
+              "end": 857800,
+              "text": "Thanks for taking the time to understand our specific challenges and not just giving a generic pitch."
+            }
+          ]
+        },
+        {
+          "speakerId": "7829384756102938",
+          "topic": "Wrap-up",
+          "sentences": [
+            {
+              "start": 858600,
+              "end": 864100,
+              "text": "My pleasure, David. I really appreciate your openness about the challenges you're facing."
+            },
+            {
+              "start": 864700,
+              "end": 871200,
+              "text": "I'm confident Phantom Sec can solve these automation challenges and get you back to focusing on growth."
+            },
+            {
+              "start": 871800,
+              "end": 878300,
+              "text": "I'll get that calendar invite out within the hour, along with all the materials we discussed."
+            },
+            {
+              "start": 878900,
+              "end": 884400,
+              "text": "Looking forward to our technical session next Tuesday. Have a great rest of your day!"
+            }
+          ]
+        },
+        {
+          "speakerId": "4923857610293847",
+          "topic": "Wrap-up",
+          "sentences": [
+            {
+              "start": 885200,
+              "end": 890700,
+              "text": "Thanks Alex, you too. Really looking forward to getting out of this Secureframe situation."
+            },
+            {
+              "start": 891300,
+              "end": 895800,
+              "text": "Talk to you Tuesday. Bye!"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "callId": "5432109876543210",
+      "transcript": [
+        {
+          "speakerId": "9182736450928374",
+          "topic": "Call Setup",
+          "sentences": [
+            {
+              "start": 1800,
+              "end": 5900,
+              "text": "Hi Sarah, this is Jamie from Phantom Sec. How are you doing today?"
+            },
+            {
+              "start": 6400,
+              "end": 10200,
+              "text": "I see you're joining from Seattle. How's the weather up there?"
+            }
+          ]
+        },
+        {
+          "speakerId": "6574839201847362",
+          "topic": "Call Setup",
+          "sentences": [
+            {
+              "start": 10800,
+              "end": 14600,
+              "text": "Hi Jamie, I'm doing well, thanks! Yes, typical Seattle - a bit rainy today."
+            },
+            {
+              "start": 15200,
+              "end": 19800,
+              "text": "I'm Sarah Martinez, the VP of Security at CloudFirst Technologies."
+            }
+          ]
+        },
+        {
+          "speakerId": "9182736450928374",
+          "topic": "Small Talk",
+          "sentences": [
+            {
+              "start": 20400,
+              "end": 25100,
+              "text": "Nice to meet you Sarah! I appreciate you taking the time today."
+            },
+            {
+              "start": 25700,
+              "end": 31200,
+              "text": "I noticed CloudFirst just raised your Series B - congratulations! That must be exciting."
+            }
+          ]
+        },
+        {
+          "speakerId": "6574839201847362",
+          "topic": "Small Talk",
+          "sentences": [
+            {
+              "start": 31800,
+              "end": 37300,
+              "text": "Thank you! Yes, it's been quite a journey. We're scaling rapidly now."
+            },
+            {
+              "start": 37900,
+              "end": 44400,
+              "text": "Actually, that's part of why I'm talking to you. Our investors are asking about our compliance posture."
+            }
+          ]
+        },
+        {
+          "speakerId": "9182736450928374",
+          "topic": "Small Talk",
+          "sentences": [
+            {
+              "start": 45000,
+              "end": 50500,
+              "text": "That's very common after a funding round. What specific compliance requirements are they asking about?"
+            }
+          ]
+        },
+        {
+          "speakerId": "6574839201847362",
+          "topic": "Small Talk",
+          "sentences": [
+            {
+              "start": 51100,
+              "end": 59900,
+              "text": "They want us to achieve SOC 2 Type II within the next 6 months, and we're starting from basically nothing."
+            },
+            {
+              "start": 60500,
+              "end": 68300,
+              "text": "We're a 150-person company, mostly engineers, and we've been focused on product development until now."
+            },
+            {
+              "start": 68900,
+              "end": 76700,
+              "text": "I've been researching solutions and came across Phantom Sec, but I also looked at Drata and TrustCloud."
+            }
+          ]
+        },
+        {
+          "speakerId": "9182736450928374",
+          "topic": "Small Talk",
+          "sentences": [
+            {
+              "start": 77300,
+              "end": 83800,
+              "text": "Great that you're evaluating options. What did you find when you looked at Drata and TrustCloud?"
+            }
+          ]
+        },
+        {
+          "speakerId": "6574839201847362",
+          "topic": "Small Talk",
+          "sentences": [
+            {
+              "start": 84400,
+              "end": 92200,
+              "text": "Drata seems very technical, which could be good for our team, but the pricing was really high - over $45,000."
+            },
+            {
+              "start": 92800,
+              "end": 100600,
+              "text": "TrustCloud was more affordable at around $20,000, but their platform seemed pretty basic from the demo."
+            },
+            {
+              "start": 101200,
+              "end": 109000,
+              "text": "They don't have many integrations, and we'd still need to do a lot of manual evidence collection."
+            }
+          ]
+        },
+        {
+          "speakerId": "9182736450928374",
+          "topic": "Small Talk",
+          "sentences": [
+            {
+              "start": 109600,
+              "end": 117400,
+              "text": "I understand. It sounds like you're looking for something that balances automation with reasonable pricing."
+            },
+            {
+              "start": 118000,
+              "end": 125800,
+              "text": "Can you tell me more about your current tech stack? That'll help me understand your integration needs."
+            }
+          ]
+        },
+        {
+          "speakerId": "6574839201847362",
+          "topic": "Small Talk",
+          "sentences": [
+            {
+              "start": 126400,
+              "end": 134200,
+              "text": "Sure! We're on AWS for infrastructure, using GitHub for code, Jira for tickets, and Slack for communication."
+            },
+            {
+              "start": 134800,
+              "end": 142600,
+              "text": "We also use Okta for identity management, Datadog for monitoring, and BambooHR for our HR system."
+            },
+            {
+              "start": 143200,
+              "end": 151000,
+              "text": "One challenge is we have some custom-built tools for deployment and security scanning that need to be included."
+            }
+          ]
+        },
+        {
+          "speakerId": "9182736450928374",
+          "topic": "Small Talk",
+          "sentences": [
+            {
+              "start": 151600,
+              "end": 159400,
+              "text": "Perfect, we integrate with all of those platforms natively - AWS, GitHub, Jira, Slack, Okta, Datadog, and BambooHR."
+            },
+            {
+              "start": 160000,
+              "end": 167800,
+              "text": "For your custom tools, we have APIs that can pull in that evidence automatically as well."
+            },
+            {
+              "start": 168400,
+              "end": 176200,
+              "text": "This is actually a key differentiator - we have over 380 integrations, more than Drata or TrustCloud."
+            }
+          ]
+        },
+        {
+          "speakerId": "6574839201847362",
+          "topic": "Small Talk",
+          "sentences": [
+            {
+              "start": 176800,
+              "end": 183300,
+              "text": "That's impressive. How much of the compliance work can actually be automated?"
+            },
+            {
+              "start": 183900,
+              "end": 191700,
+              "text": "With TrustCloud, they said we'd still need someone spending 20+ hours a week on compliance tasks."
+            }
+          ]
+        },
+        {
+          "speakerId": "9182736450928374",
+          "topic": "Small Talk",
+          "sentences": [
+            {
+              "start": 192300,
+              "end": 200100,
+              "text": "We automate about 90% of the evidence collection and monitoring. Most of our customers spend just 2-3 hours per week."
+            },
+            {
+              "start": 200700,
+              "end": 208500,
+              "text": "Unlike TrustCloud's manual approach, our AI continuously monitors your controls and alerts you to any issues."
+            },
+            {
+              "start": 209100,
+              "end": 216900,
+              "text": "We also have an AI Agent that can guide your team through any compliance tasks, which neither competitor offers."
+            }
+          ]
+        },
+        {
+          "speakerId": "6574839201847362",
+          "topic": "Small Talk",
+          "sentences": [
+            {
+              "start": 217500,
+              "end": 224000,
+              "text": "The AI Agent sounds interesting. We don't have any compliance experts on staff."
+            },
+            {
+              "start": 224600,
+              "end": 232400,
+              "text": "Another pain point is security questionnaires. We're getting more of these from enterprise customers."
+            },
+            {
+              "start": 233000,
+              "end": 240800,
+              "text": "Last month we had 15 questionnaires, and each one took our team 3-4 hours to complete."
+            }
+          ]
+        },
+        {
+          "speakerId": "9182736450928374",
+          "topic": "Small Talk",
+          "sentences": [
+            {
+              "start": 241400,
+              "end": 249200,
+              "text": "Security questionnaires are a huge time sink. Our AI-powered questionnaire automation handles 80% automatically."
+            },
+            {
+              "start": 249800,
+              "end": 257600,
+              "text": "For those 15 questionnaires, you'd probably complete 12 of them in minutes instead of hours."
+            },
+            {
+              "start": 258200,
+              "end": 266000,
+              "text": "Neither Drata nor TrustCloud has this level of questionnaire automation - it's unique to Phantom Sec."
+            }
+          ]
+        },
+        {
+          "speakerId": "6574839201847362",
+          "topic": "Small Talk",
+          "sentences": [
+            {
+              "start": 266600,
+              "end": 273100,
+              "text": "That would be a game-changer for us. What about the implementation timeline?"
+            },
+            {
+              "start": 273700,
+              "end": 281500,
+              "text": "Drata told us 8-10 weeks, and TrustCloud said 6-8 weeks. We need to move faster than that."
+            }
+          ]
+        },
+        {
+          "speakerId": "9182736450928374",
+          "topic": "Small Talk",
+          "sentences": [
+            {
+              "start": 282100,
+              "end": 289900,
+              "text": "We can get you up and running in 3-4 weeks. Our implementation is much more streamlined."
+            },
+            {
+              "start": 290500,
+              "end": 298300,
+              "text": "The key is our automation - while others require manual setup, we automatically discover and configure your controls."
+            },
+            {
+              "start": 298900,
+              "end": 306700,
+              "text": "You could realistically be ready for your SOC 2 audit within 2 months of starting with us."
+            }
+          ]
+        },
+        {
+          "speakerId": "6574839201847362",
+          "topic": "Pricing",
+          "sentences": [
+            {
+              "start": 307300,
+              "end": 313800,
+              "text": "That timeline works well for us. What about pricing? What kind of investment are we looking at?"
+            },
+            {
+              "start": 314400,
+              "end": 321900,
+              "text": "As I mentioned, Drata was $45,000 and TrustCloud was $20,000, but with very different capabilities."
+            }
+          ]
+        },
+        {
+          "speakerId": "9182736450928374",
+          "topic": "Pricing",
+          "sentences": [
+            {
+              "start": 322500,
+              "end": 330300,
+              "text": "For a 150-person company going for SOC 2, you're looking at approximately $28,000-$32,000 annually."
+            },
+            {
+              "start": 330900,
+              "end": 338700,
+              "text": "So we're right in the middle price-wise, but with significantly more automation than TrustCloud."
+            },
+            {
+              "start": 339300,
+              "end": 347100,
+              "text": "When you factor in the time savings - going from 20+ hours to 2-3 hours weekly - the ROI is very strong."
+            }
+          ]
+        },
+        {
+          "speakerId": "6574839201847362",
+          "topic": "Pricing",
+          "sentences": [
+            {
+              "start": 347700,
+              "end": 354200,
+              "text": "That seems reasonable. Can you break down what's included in that price?"
+            },
+            {
+              "start": 354800,
+              "end": 362600,
+              "text": "With TrustCloud, they wanted to charge extra for additional frameworks and for their 'premium' support."
+            }
+          ]
+        },
+        {
+          "speakerId": "9182736450928374",
+          "topic": "Pricing",
+          "sentences": [
+            {
+              "start": 363200,
+              "end": 371000,
+              "text": "Our pricing includes everything - the platform, all integrations, AI features, and premium support."
+            },
+            {
+              "start": 371600,
+              "end": 379400,
+              "text": "Unlike TrustCloud, we don't nickel and dime you. If you need ISO 27001 later, it's a minimal add-on."
+            },
+            {
+              "start": 380000,
+              "end": 387800,
+              "text": "You also get 24/7 support through chat, phone, and Slack - not just email like some competitors."
+            }
+          ]
+        },
+        {
+          "speakerId": "6574839201847362",
+          "topic": "Next Steps",
+          "sentences": [
+            {
+              "start": 388400,
+              "end": 395900,
+              "text": "This is really helpful. I need to discuss this with our CTO and CEO. What are the next steps?"
+            },
+            {
+              "start": 396500,
+              "end": 404300,
+              "text": "They'll want to see a demo of the actual platform, especially the automation and AI features."
+            }
+          ]
+        },
+        {
+          "speakerId": "9182736450928374",
+          "topic": "Next Steps",
+          "sentences": [
+            {
+              "start": 404900,
+              "end": 412700,
+              "text": "Perfect! I'd love to schedule a technical demo with you and your CTO. How does Thursday afternoon look?"
+            },
+            {
+              "start": 413300,
+              "end": 421100,
+              "text": "I can show you exactly how the automation works with your specific tech stack."
+            },
+            {
+              "start": 421700,
+              "end": 429500,
+              "text": "I'll also prepare a comparison chart showing Phantom Sec versus Drata and TrustCloud side by side."
+            }
+          ]
+        },
+        {
+          "speakerId": "6574839201847362",
+          "topic": "Next Steps",
+          "sentences": [
+            {
+              "start": 430100,
+              "end": 436600,
+              "text": "Thursday at 3 PM Pacific would work great. Can you include our Head of Engineering too?"
+            },
+            {
+              "start": 437200,
+              "end": 444700,
+              "text": "The comparison chart would be really valuable - it'll help me make the case internally."
+            }
+          ]
+        },
+        {
+          "speakerId": "9182736450928374",
+          "topic": "Next Steps",
+          "sentences": [
+            {
+              "start": 445300,
+              "end": 452100,
+              "text": "Absolutely! I'll send a calendar invite for Thursday at 3 PM Pacific with a Zoom link."
+            },
+            {
+              "start": 452700,
+              "end": 460500,
+              "text": "I'll also send over some case studies of similar companies who switched from TrustCloud to Phantom Sec."
+            }
+          ]
+        },
+        {
+          "speakerId": "6574839201847362",
+          "topic": "Wrap-up",
+          "sentences": [
+            {
+              "start": 461100,
+              "end": 467600,
+              "text": "Perfect! This has been really informative. You've addressed a lot of my concerns."
+            },
+            {
+              "start": 468200,
+              "end": 474700,
+              "text": "I'm looking forward to seeing the platform in action on Thursday."
+            }
+          ]
+        },
+        {
+          "speakerId": "9182736450928374",
+          "topic": "Wrap-up",
+          "sentences": [
+            {
+              "start": 475300,
+              "end": 481800,
+              "text": "Excellent, Sarah! I'm confident we can help CloudFirst achieve SOC 2 quickly and efficiently."
+            },
+            {
+              "start": 482400,
+              "end": 488900,
+              "text": "I'll get those materials over to you today. Have a great rest of your Tuesday!"
+            }
+          ]
+        },
+        {
+          "speakerId": "6574839201847362",
+          "topic": "Wrap-up",
+          "sentences": [
+            {
+              "start": 489500,
+              "end": 494000,
+              "text": "Thanks Jamie! Talk to you Thursday. Bye!"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "callId": "3456789012345678",
+      "transcript": [
+        {
+          "speakerId": "2847561029384756",
+          "topic": "Call Setup",
+          "sentences": [
+            {
+              "start": 2200,
+              "end": 6900,
+              "text": "Good morning Dr. Patel, this is Marcus from Phantom Sec. Thanks for making time today."
+            },
+            {
+              "start": 7500,
+              "end": 11300,
+              "text": "I understand you're the Chief Technology Officer at MediCore Health Systems?"
+            }
+          ]
+        },
+        {
+          "speakerId": "9384756102847561",
+          "topic": "Call Setup",
+          "sentences": [
+            {
+              "start": 11900,
+              "end": 15700,
+              "text": "Yes, that's correct Marcus. Please, call me Raj."
+            },
+            {
+              "start": 16300,
+              "end": 20100,
+              "text": "We're a digital health platform with about 300 employees."
+            }
+          ]
+        },
+        {
+          "speakerId": "2847561029384756",
+          "topic": "Small Talk",
+          "sentences": [
+            {
+              "start": 20700,
+              "end": 25400,
+              "text": "300 employees, that's great growth! How long have you been with MediCore?"
+            }
+          ]
+        },
+        {
+          "speakerId": "9384756102847561",
+          "topic": "Small Talk",
+          "sentences": [
+            {
+              "start": 26000,
+              "end": 31500,
+              "text": "I joined about 18 months ago to help scale our technology infrastructure."
+            },
+            {
+              "start": 32100,
+              "end": 39600,
+              "text": "We're handling sensitive health data, so compliance is becoming a major focus for us."
+            }
+          ]
+        },
+        {
+          "speakerId": "2847561029384756",
+          "topic": "Small Talk",
+          "sentences": [
+            {
+              "start": 40200,
+              "end": 45700,
+              "text": "Absolutely, healthcare compliance is critical. What frameworks are you looking at?"
+            }
+          ]
+        },
+        {
+          "speakerId": "9384756102847561",
+          "topic": "Small Talk",
+          "sentences": [
+            {
+              "start": 46300,
+              "end": 54100,
+              "text": "We need HIPAA of course, but also SOC 2 for our enterprise health system partners."
+            },
+            {
+              "start": 54700,
+              "end": 62500,
+              "text": "We tried managing this internally for the past year, but it's not scalable anymore."
+            },
+            {
+              "start": 63100,
+              "end": 70900,
+              "text": "I've been evaluating Sprinto heavily, and also looked at Secureframe briefly."
+            }
+          ]
+        },
+        {
+          "speakerId": "2847561029384756",
+          "topic": "Small Talk",
+          "sentences": [
+            {
+              "start": 71500,
+              "end": 77000,
+              "text": "I see. What's your experience been with Sprinto so far?"
+            }
+          ]
+        },
+        {
+          "speakerId": "9384756102847561",
+          "topic": "Small Talk",
+          "sentences": [
+            {
+              "start": 77600,
+              "end": 85400,
+              "text": "Their automation is impressive - the 99% claim - but I'm concerned about HIPAA expertise."
+            },
+            {
+              "start": 86000,
+              "end": 93800,
+              "text": "In our demo, they seemed more focused on general SaaS compliance, not healthcare specifics."
+            },
+            {
+              "start": 94400,
+              "end": 102200,
+              "text": "Plus, their implementation timeline of 10-12 weeks seems long for our urgent needs."
+            }
+          ]
+        },
+        {
+          "speakerId": "2847561029384756",
+          "topic": "Small Talk",
+          "sentences": [
+            {
+              "start": 102800,
+              "end": 110600,
+              "text": "Healthcare compliance does require specialized knowledge. We actually have a dedicated healthcare team."
+            },
+            {
+              "start": 111200,
+              "end": 119000,
+              "text": "Many of our healthcare clients switched from Sprinto specifically because of our HIPAA expertise."
+            }
+          ]
+        },
+        {
+          "speakerId": "9384756102847561",
+          "topic": "Small Talk",
+          "sentences": [
+            {
+              "start": 119600,
+              "end": 126100,
+              "text": "That's interesting. What about your automation capabilities compared to Sprinto?"
+            },
+            {
+              "start": 126700,
+              "end": 134500,
+              "text": "We have a lot of legacy systems that need to integrate - EHR systems, medical devices, etc."
+            }
+          ]
+        },
+        {
+          "speakerId": "2847561029384756",
+          "topic": "Small Talk",
+          "sentences": [
+            {
+              "start": 135100,
+              "end": 142900,
+              "text": "We automate 90% of evidence collection, which is more realistic than 99% claims."
+            },
+            {
+              "start": 143500,
+              "end": 151300,
+              "text": "More importantly, we have pre-built integrations for major EHR systems like Epic and Cerner."
+            },
+            {
+              "start": 151900,
+              "end": 159700,
+              "text": "For medical devices, our API framework can connect to any system that exposes data."
+            }
+          ]
+        },
+        {
+          "speakerId": "9384756102847561",
+          "topic": "Small Talk",
+          "sentences": [
+            {
+              "start": 160300,
+              "end": 167100,
+              "text": "EHR integrations would save us months of work. Sprinto didn't have those."
+            },
+            {
+              "start": 167700,
+              "end": 175500,
+              "text": "What about the Business Associate Agreement requirements? That's been a pain point."
+            }
+          ]
+        },
+        {
+          "speakerId": "2847561029384756",
+          "topic": "Small Talk",
+          "sentences": [
+            {
+              "start": 176100,
+              "end": 183900,
+              "text": "We have automated BAA tracking and management built into the platform."
+            },
+            {
+              "start": 184500,
+              "end": 192300,
+              "text": "You can track all your vendors, their BAA status, and get alerts for renewals."
+            },
+            {
+              "start": 192900,
+              "end": 200700,
+              "text": "This is something unique to us - neither Sprinto nor Secureframe has this healthcare focus."
+            }
+          ]
+        },
+        {
+          "speakerId": "9384756102847561",
+          "topic": "Pricing",
+          "sentences": [
+            {
+              "start": 201300,
+              "end": 207800,
+              "text": "This sounds more aligned with our needs. What's the investment level?"
+            },
+            {
+              "start": 208400,
+              "end": 215900,
+              "text": "Sprinto quoted us $42,000 annually, which seemed high for what we'd get."
+            }
+          ]
+        },
+        {
+          "speakerId": "2847561029384756",
+          "topic": "Pricing",
+          "sentences": [
+            {
+              "start": 216500,
+              "end": 224300,
+              "text": "For a 300-person healthcare company with HIPAA and SOC 2, you're looking at $45,000-$50,000."
+            },
+            {
+              "start": 224900,
+              "end": 232700,
+              "text": "It's slightly more than Sprinto, but you're getting healthcare-specific features they don't have."
+            },
+            {
+              "start": 233300,
+              "end": 241100,
+              "text": "Most healthcare clients see ROI within 6 months from reduced audit costs and faster partner onboarding."
+            }
+          ]
+        },
+        {
+          "speakerId": "9384756102847561",
+          "topic": "Next Steps",
+          "sentences": [
+            {
+              "start": 241700,
+              "end": 248200,
+              "text": "The healthcare focus definitely justifies the price. What's next in the evaluation?"
+            }
+          ]
+        },
+        {
+          "speakerId": "2847561029384756",
+          "topic": "Next Steps",
+          "sentences": [
+            {
+              "start": 248800,
+              "end": 255300,
+              "text": "I'd recommend a technical demo with your security team to show the HIPAA controls."
+            },
+            {
+              "start": 255900,
+              "end": 262400,
+              "text": "I can also connect you with our healthcare clients who made similar transitions."
+            }
+          ]
+        },
+        {
+          "speakerId": "9384756102847561",
+          "topic": "Wrap-up",
+          "sentences": [
+            {
+              "start": 263000,
+              "end": 268500,
+              "text": "Perfect. Let's schedule that for next week. This has been very helpful, Marcus."
+            }
+          ]
+        },
+        {
+          "speakerId": "2847561029384756",
+          "topic": "Wrap-up",
+          "sentences": [
+            {
+              "start": 269100,
+              "end": 274600,
+              "text": "Excellent! I'll send the invite today. Thanks for your time, Raj!"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "callId": "6789012345678901",
+      "transcript": [
+        {
+          "speakerId": "5678901234567890",
+          "topic": "Call Setup",
+          "sentences": [
+            {
+              "start": 1500,
+              "end": 6200,
+              "text": "Good afternoon Linda, this is Rachel from Phantom Sec. Thanks for taking my call."
+            },
+            {
+              "start": 6800,
+              "end": 11500,
+              "text": "I know you're busy as Chief Compliance Officer at Meridian Financial."
+            }
+          ]
+        },
+        {
+          "speakerId": "3456789012345678",
+          "topic": "Call Setup",
+          "sentences": [
+            {
+              "start": 12100,
+              "end": 16800,
+              "text": "Hi Rachel. Yes, compliance never sleeps in financial services!"
+            },
+            {
+              "start": 17400,
+              "end": 22100,
+              "text": "But this is important - we need to modernize our compliance infrastructure."
+            }
+          ]
+        },
+        {
+          "speakerId": "5678901234567890",
+          "topic": "Small Talk",
+          "sentences": [
+            {
+              "start": 22700,
+              "end": 27400,
+              "text": "I completely understand. Tell me about Meridian's current situation."
+            }
+          ]
+        },
+        {
+          "speakerId": "3456789012345678",
+          "topic": "Small Talk",
+          "sentences": [
+            {
+              "start": 28000,
+              "end": 35800,
+              "text": "We're a wealth management firm with about 1,200 employees across 15 offices."
+            },
+            {
+              "start": 36400,
+              "end": 44200,
+              "text": "We manage $8 billion in assets, so regulatory compliance is absolutely critical for us."
+            },
+            {
+              "start": 44800,
+              "end": 52600,
+              "text": "Currently, we're using a combination of manual processes and Drata for SOC 2."
+            }
+          ]
+        },
+        {
+          "speakerId": "5678901234567890",
+          "topic": "Small Talk",
+          "sentences": [
+            {
+              "start": 53200,
+              "end": 58700,
+              "text": "How's your experience been with Drata for your compliance needs?"
+            }
+          ]
+        },
+        {
+          "speakerId": "3456789012345678",
+          "topic": "Small Talk",
+          "sentences": [
+            {
+              "start": 59300,
+              "end": 67100,
+              "text": "Honestly, Drata works well for SOC 2, but we need much more than that."
+            },
+            {
+              "start": 67700,
+              "end": 75500,
+              "text": "We need SEC compliance, FINRA requirements, state regulations - Drata doesn't cover those."
+            },
+            {
+              "start": 76100,
+              "end": 83900,
+              "text": "Plus, their platform is very technical. Our compliance team struggles with it."
+            }
+          ]
+        },
+        {
+          "speakerId": "5678901234567890",
+          "topic": "Small Talk",
+          "sentences": [
+            {
+              "start": 84500,
+              "end": 91300,
+              "text": "Financial services compliance is complex. Have you looked at other solutions?"
+            }
+          ]
+        },
+        {
+          "speakerId": "3456789012345678",
+          "topic": "Small Talk",
+          "sentences": [
+            {
+              "start": 91900,
+              "end": 99700,
+              "text": "We evaluated TrustCloud, but they're too basic for our enterprise needs."
+            },
+            {
+              "start": 100300,
+              "end": 108100,
+              "text": "They quoted us $25,000, which is attractive, but they can't handle our complexity."
+            },
+            {
+              "start": 108700,
+              "end": 116500,
+              "text": "We need something that can scale with us and handle multiple regulatory frameworks."
+            }
+          ]
+        },
+        {
+          "speakerId": "5678901234567890",
+          "topic": "Small Talk",
+          "sentences": [
+            {
+              "start": 117100,
+              "end": 124900,
+              "text": "That's exactly why financial services firms choose Phantom Sec over Drata or TrustCloud."
+            },
+            {
+              "start": 125500,
+              "end": 133300,
+              "text": "We have pre-built frameworks for SEC, FINRA, and state-level financial regulations."
+            }
+          ]
+        },
+        {
+          "speakerId": "3456789012345678",
+          "topic": "Small Talk",
+          "sentences": [
+            {
+              "start": 133900,
+              "end": 140400,
+              "text": "That's interesting. What about integration with our existing systems?"
+            },
+            {
+              "start": 141000,
+              "end": 148800,
+              "text": "We use specialized financial software - portfolio management systems, trading platforms."
+            }
+          ]
+        },
+        {
+          "speakerId": "5678901234567890",
+          "topic": "Small Talk",
+          "sentences": [
+            {
+              "start": 149400,
+              "end": 157200,
+              "text": "We integrate with major financial platforms like Charles River, Bloomberg, and Advent."
+            },
+            {
+              "start": 157800,
+              "end": 165600,
+              "text": "Unlike Drata's generic approach, we understand financial services data flows."
+            },
+            {
+              "start": 166200,
+              "end": 174000,
+              "text": "We also automate regulatory reporting, which neither Drata nor TrustCloud offers."
+            }
+          ]
+        },
+        {
+          "speakerId": "3456789012345678",
+          "topic": "Small Talk",
+          "sentences": [
+            {
+              "start": 174600,
+              "end": 181100,
+              "text": "Regulatory reporting automation would save us dozens of hours monthly."
+            },
+            {
+              "start": 181700,
+              "end": 189500,
+              "text": "What about audit trails? Our regulators require detailed documentation."
+            }
+          ]
+        },
+        {
+          "speakerId": "5678901234567890",
+          "topic": "Small Talk",
+          "sentences": [
+            {
+              "start": 190100,
+              "end": 197900,
+              "text": "We provide immutable audit trails that exceed regulatory requirements."
+            },
+            {
+              "start": 198500,
+              "end": 206300,
+              "text": "Every change, every access, every report - all tracked and timestamped automatically."
+            },
+            {
+              "start": 206900,
+              "end": 214700,
+              "text": "This is enterprise-grade compliance, not the SMB-focused tools you've been evaluating."
+            }
+          ]
+        },
+        {
+          "speakerId": "3456789012345678",
+          "topic": "Pricing",
+          "sentences": [
+            {
+              "start": 215300,
+              "end": 221800,
+              "text": "This sounds like what we need. What's the investment for an enterprise solution?"
+            },
+            {
+              "start": 222400,
+              "end": 229900,
+              "text": "Drata is costing us $55,000 annually just for SOC 2."
+            }
+          ]
+        },
+        {
+          "speakerId": "5678901234567890",
+          "topic": "Pricing",
+          "sentences": [
+            {
+              "start": 230500,
+              "end": 238300,
+              "text": "For a 1,200-person financial services firm with your requirements, it's $85,000-$95,000."
+            },
+            {
+              "start": 238900,
+              "end": 246700,
+              "text": "That includes all frameworks, integrations, and our white-glove enterprise support."
+            },
+            {
+              "start": 247300,
+              "end": 255100,
+              "text": "Consider that you're replacing Drata AND getting financial regulatory compliance."
+            }
+          ]
+        },
+        {
+          "speakerId": "3456789012345678",
+          "topic": "Pricing",
+          "sentences": [
+            {
+              "start": 255700,
+              "end": 262200,
+              "text": "When you put it that way, it's actually quite reasonable."
+            },
+            {
+              "start": 262800,
+              "end": 270600,
+              "text": "We spend more than that annually just on compliance consultants."
+            }
+          ]
+        },
+        {
+          "speakerId": "5678901234567890",
+          "topic": "Next Steps",
+          "sentences": [
+            {
+              "start": 271200,
+              "end": 277700,
+              "text": "Exactly. Should we schedule a demo with your compliance and IT teams?"
+            },
+            {
+              "start": 278300,
+              "end": 285100,
+              "text": "I can show how we handle SEC reporting and multi-framework management."
+            }
+          ]
+        },
+        {
+          "speakerId": "3456789012345678",
+          "topic": "Next Steps",
+          "sentences": [
+            {
+              "start": 285700,
+              "end": 292200,
+              "text": "Yes, let's do that. Can you also bring a financial services reference?"
+            },
+            {
+              "start": 292800,
+              "end": 299300,
+              "text": "I'd like to hear from someone who's been through a regulatory audit with your platform."
+            }
+          ]
+        },
+        {
+          "speakerId": "5678901234567890",
+          "topic": "Wrap-up",
+          "sentences": [
+            {
+              "start": 299900,
+              "end": 305400,
+              "text": "Absolutely! I'll connect you with our clients at Pinnacle Advisors."
+            },
+            {
+              "start": 306000,
+              "end": 311500,
+              "text": "They just passed their SEC examination using our platform. Thanks Linda!"
+            }
+          ]
+        },
+        {
+          "speakerId": "3456789012345678",
+          "topic": "Wrap-up",
+          "sentences": [
+            {
+              "start": 312100,
+              "end": 316600,
+              "text": "Perfect. Looking forward to it, Rachel. Have a great day!"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "callId": "1234567890123456",
+      "transcript": [
+        {
+          "speakerId": "8901234567890123",
+          "topic": "Call Setup",
+          "sentences": [
+            {
+              "start": 2300,
+              "end": 7000,
+              "text": "Hey Tom, this is Derek from Phantom Sec. How's it going?"
+            },
+            {
+              "start": 7600,
+              "end": 12300,
+              "text": "I saw DataVault just announced your seed funding - congrats!"
+            }
+          ]
+        },
+        {
+          "speakerId": "4567890123456789",
+          "topic": "Call Setup",
+          "sentences": [
+            {
+              "start": 12900,
+              "end": 17600,
+              "text": "Hey Derek, thanks! Yeah, it's been a crazy few weeks."
+            },
+            {
+              "start": 18200,
+              "end": 22900,
+              "text": "I'm Tom, the co-founder and CTO here."
+            }
+          ]
+        },
+        {
+          "speakerId": "8901234567890123",
+          "topic": "Small Talk",
+          "sentences": [
+            {
+              "start": 23500,
+              "end": 28200,
+              "text": "Awesome! How big is the team now?"
+            }
+          ]
+        },
+        {
+          "speakerId": "4567890123456789",
+          "topic": "Small Talk",
+          "sentences": [
+            {
+              "start": 28800,
+              "end": 35300,
+              "text": "We're 35 people, mostly engineers. Growing to 50 by end of quarter."
+            },
+            {
+              "start": 35900,
+              "end": 43700,
+              "text": "Our investors are pushing us to get SOC 2 certified ASAP for enterprise deals."
+            }
+          ]
+        },
+        {
+          "speakerId": "8901234567890123",
+          "topic": "Small Talk",
+          "sentences": [
+            {
+              "start": 44300,
+              "end": 49800,
+              "text": "Classic post-funding requirement! What have you looked at so far?"
+            }
+          ]
+        },
+        {
+          "speakerId": "4567890123456789",
+          "topic": "Small Talk",
+          "sentences": [
+            {
+              "start": 50400,
+              "end": 58200,
+              "text": "I've been demo-ing everything - Secureframe, Drata, Sprinto, TrustCloud."
+            },
+            {
+              "start": 58800,
+              "end": 66600,
+              "text": "Honestly, they all seem pretty similar. I'm trying to figure out the real differences."
+            },
+            {
+              "start": 67200,
+              "end": 75000,
+              "text": "Secureframe seems popular with startups, but I'm not sure if it's just good marketing."
+            }
+          ]
+        },
+        {
+          "speakerId": "8901234567890123",
+          "topic": "Small Talk",
+          "sentences": [
+            {
+              "start": 75600,
+              "end": 82100,
+              "text": "I get it. What's been your impression of each so far?"
+            }
+          ]
+        },
+        {
+          "speakerId": "4567890123456789",
+          "topic": "Small Talk",
+          "sentences": [
+            {
+              "start": 82700,
+              "end": 90500,
+              "text": "Secureframe has good hand-holding, but it feels too manual for a tech-forward team like ours."
+            },
+            {
+              "start": 91100,
+              "end": 98900,
+              "text": "Drata is super technical which I like, but their UI is confusing and the price is steep."
+            },
+            {
+              "start": 99500,
+              "end": 107300,
+              "text": "Sprinto promises 99% automation but their demo felt buggy. Plus they're newer."
+            },
+            {
+              "start": 107900,
+              "end": 115700,
+              "text": "TrustCloud is cheap but seems really basic. I don't think they'd scale with us."
+            }
+          ]
+        },
+        {
+          "speakerId": "8901234567890123",
+          "topic": "Small Talk",
+          "sentences": [
+            {
+              "start": 116300,
+              "end": 123100,
+              "text": "Great analysis. What matters most to you in choosing a solution?"
+            }
+          ]
+        },
+        {
+          "speakerId": "4567890123456789",
+          "topic": "Small Talk",
+          "sentences": [
+            {
+              "start": 123700,
+              "end": 131500,
+              "text": "Speed to compliance is huge - we have enterprise deals waiting on SOC 2."
+            },
+            {
+              "start": 132100,
+              "end": 139900,
+              "text": "But also automation. I can't have my engineers wasting time on compliance busy work."
+            },
+            {
+              "start": 140500,
+              "end": 148300,
+              "text": "And it needs to be developer-friendly. My team will revolt if the UX is bad."
+            }
+          ]
+        },
+        {
+          "speakerId": "8901234567890123",
+          "topic": "Small Talk",
+          "sentences": [
+            {
+              "start": 148900,
+              "end": 156700,
+              "text": "Makes total sense. We actually focus on exactly that - developer-first compliance."
+            },
+            {
+              "start": 157300,
+              "end": 165100,
+              "text": "We can get you SOC 2 ready in 4-6 weeks with 90% automation."
+            },
+            {
+              "start": 165700,
+              "end": 173500,
+              "text": "Unlike Secureframe's manual approach or Drata's complexity, we're built for startups like yours."
+            }
+          ]
+        },
+        {
+          "speakerId": "4567890123456789",
+          "topic": "Small Talk",
+          "sentences": [
+            {
+              "start": 174100,
+              "end": 180600,
+              "text": "4-6 weeks would be amazing. What about integrations?"
+            },
+            {
+              "start": 181200,
+              "end": 189000,
+              "text": "We use GitHub, AWS, Datadog, Slack, Linear - pretty standard startup stack."
+            }
+          ]
+        },
+        {
+          "speakerId": "8901234567890123",
+          "topic": "Small Talk",
+          "sentences": [
+            {
+              "start": 189600,
+              "end": 197400,
+              "text": "We integrate with all of those out of the box. 380+ integrations total."
+            },
+            {
+              "start": 198000,
+              "end": 205800,
+              "text": "More than Secureframe, and definitely more than TrustCloud or Sprinto."
+            },
+            {
+              "start": 206400,
+              "end": 214200,
+              "text": "Plus our AI Agent helps your team understand what's needed without compliance expertise."
+            }
+          ]
+        },
+        {
+          "speakerId": "4567890123456789",
+          "topic": "Small Talk",
+          "sentences": [
+            {
+              "start": 214800,
+              "end": 221300,
+              "text": "The AI thing is interesting. None of the others really emphasized that."
+            },
+            {
+              "start": 221900,
+              "end": 229700,
+              "text": "How does it actually work? Is it just marketing fluff or actually useful?"
+            }
+          ]
+        },
+        {
+          "speakerId": "8901234567890123",
+          "topic": "Small Talk",
+          "sentences": [
+            {
+              "start": 230300,
+              "end": 238100,
+              "text": "It's legit. The AI guides you through each control, suggests evidence, and even writes policies."
+            },
+            {
+              "start": 238700,
+              "end": 246500,
+              "text": "For example, it'll detect you're using AWS and automatically configure the right security controls."
+            },
+            {
+              "start": 247100,
+              "end": 254900,
+              "text": "This is unique to us - the others just give you templates and checklists."
+            }
+          ]
+        },
+        {
+          "speakerId": "4567890123456789",
+          "topic": "Pricing",
+          "sentences": [
+            {
+              "start": 255500,
+              "end": 262000,
+              "text": "Okay, that's actually pretty cool. What's the damage pricing-wise?"
+            },
+            {
+              "start": 262600,
+              "end": 270400,
+              "text": "Secureframe quoted $12K, Drata was $25K, Sprinto $18K, and TrustCloud was $8K."
+            }
+          ]
+        },
+        {
+          "speakerId": "8901234567890123",
+          "topic": "Pricing",
+          "sentences": [
+            {
+              "start": 271000,
+              "end": 278800,
+              "text": "For a 35-person startup, we're at $15,000 annually. Right in the middle."
+            },
+            {
+              "start": 279400,
+              "end": 287200,
+              "text": "But you get more automation than Secureframe, simpler than Drata, more reliable than Sprinto."
+            },
+            {
+              "start": 287800,
+              "end": 295600,
+              "text": "And way more capable than TrustCloud. Plus, we have startup-friendly payment terms."
+            }
+          ]
+        },
+        {
+          "speakerId": "4567890123456789",
+          "topic": "Pricing",
+          "sentences": [
+            {
+              "start": 296200,
+              "end": 302700,
+              "text": "That's reasonable. Do you offer monthly billing? Cash flow is tight."
+            }
+          ]
+        },
+        {
+          "speakerId": "8901234567890123",
+          "topic": "Pricing",
+          "sentences": [
+            {
+              "start": 303300,
+              "end": 310100,
+              "text": "Absolutely. We can do monthly or quarterly. We know how startups operate."
+            },
+            {
+              "start": 310700,
+              "end": 318500,
+              "text": "We also have a startup program with additional discounts if you're interested."
+            }
+          ]
+        },
+        {
+          "speakerId": "4567890123456789",
+          "topic": "Next Steps",
+          "sentences": [
+            {
+              "start": 319100,
+              "end": 325600,
+              "text": "This is helpful. I need to sync with my co-founder who handles the business side."
+            },
+            {
+              "start": 326200,
+              "end": 333700,
+              "text": "Can you send me a comparison sheet? I'm drowning in sales materials."
+            }
+          ]
+        },
+        {
+          "speakerId": "8901234567890123",
+          "topic": "Next Steps",
+          "sentences": [
+            {
+              "start": 334300,
+              "end": 341100,
+              "text": "I'll send you a one-page comparison of us vs the others you mentioned."
+            },
+            {
+              "start": 341700,
+              "end": 348500,
+              "text": "Want to do a quick technical demo next week? I can show the actual platform."
+            }
+          ]
+        },
+        {
+          "speakerId": "4567890123456789",
+          "topic": "Next Steps",
+          "sentences": [
+            {
+              "start": 349100,
+              "end": 355600,
+              "text": "Yeah, let's do it. Tuesday or Thursday afternoon works for me."
+            }
+          ]
+        },
+        {
+          "speakerId": "8901234567890123",
+          "topic": "Wrap-up",
+          "sentences": [
+            {
+              "start": 356200,
+              "end": 362700,
+              "text": "Perfect! I'll send a Tuesday invite. Thanks for the time, Tom!"
+            },
+            {
+              "start": 363300,
+              "end": 368800,
+              "text": "Good luck with the growth - exciting times ahead!"
+            }
+          ]
+        },
+        {
+          "speakerId": "4567890123456789",
+          "topic": "Wrap-up",
+          "sentences": [
+            {
+              "start": 369400,
+              "end": 373900,
+              "text": "Thanks Derek! Talk Tuesday. Later!"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "callId": "2345678901234567",
+      "transcript": [
+        {
+          "speakerId": "7890123456789012",
+          "topic": "Call Setup",
+          "sentences": [
+            {
+              "start": 1800,
+              "end": 6500,
+              "text": "Hi Maria, this is Lisa from Phantom Sec. How are you doing today?"
+            },
+            {
+              "start": 7100,
+              "end": 11800,
+              "text": "I know Black Friday is coming up - must be a busy time at StyleHub!"
+            }
+          ]
+        },
+        {
+          "speakerId": "5678901234567890",
+          "topic": "Call Setup",
+          "sentences": [
+            {
+              "start": 12400,
+              "end": 17100,
+              "text": "Hi Lisa! Yes, it's absolutely crazy here. Q4 is our biggest quarter."
+            },
+            {
+              "start": 17700,
+              "end": 22400,
+              "text": "I'm Maria, the Head of Information Security at StyleHub."
+            }
+          ]
+        },
+        {
+          "speakerId": "7890123456789012",
+          "topic": "Small Talk",
+          "sentences": [
+            {
+              "start": 23000,
+              "end": 27700,
+              "text": "I can imagine! How many transactions do you process during peak season?"
+            }
+          ]
+        },
+        {
+          "speakerId": "5678901234567890",
+          "topic": "Small Talk",
+          "sentences": [
+            {
+              "start": 28300,
+              "end": 35100,
+              "text": "Last Black Friday we hit 50,000 transactions per hour. It's intense."
+            },
+            {
+              "start": 35700,
+              "end": 43500,
+              "text": "We're a 400-person company but our customer data is growing exponentially."
+            },
+            {
+              "start": 44100,
+              "end": 51900,
+              "text": "That's why compliance is becoming critical - we handle millions of payment cards."
+            }
+          ]
+        },
+        {
+          "speakerId": "7890123456789012",
+          "topic": "Small Talk",
+          "sentences": [
+            {
+              "start": 52500,
+              "end": 58000,
+              "text": "PCI compliance must be a major focus then. What's your current approach?"
+            }
+          ]
+        },
+        {
+          "speakerId": "5678901234567890",
+          "topic": "Small Talk",
+          "sentences": [
+            {
+              "start": 58600,
+              "end": 66400,
+              "text": "We need PCI DSS Level 1, plus SOC 2 for our enterprise retail partners."
+            },
+            {
+              "start": 67000,
+              "end": 74800,
+              "text": "Right now we're using TrustCloud, but honestly, it's not working out."
+            },
+            {
+              "start": 75400,
+              "end": 83200,
+              "text": "We also tested Drata last year but decided against it. Too complicated."
+            }
+          ]
+        },
+        {
+          "speakerId": "7890123456789012",
+          "topic": "Small Talk",
+          "sentences": [
+            {
+              "start": 83800,
+              "end": 89300,
+              "text": "What specific issues are you having with TrustCloud?"
+            }
+          ]
+        },
+        {
+          "speakerId": "5678901234567890",
+          "topic": "Small Talk",
+          "sentences": [
+            {
+              "start": 89900,
+              "end": 97700,
+              "text": "Their PCI DSS support is basically non-existent. It's all manual checklists."
+            },
+            {
+              "start": 98300,
+              "end": 106100,
+              "text": "They promised automation but we're still doing everything by hand."
+            },
+            {
+              "start": 106700,
+              "end": 114500,
+              "text": "Plus, they only have like 50 integrations. We use tools they've never heard of."
+            },
+            {
+              "start": 115100,
+              "end": 122900,
+              "text": "For $22,000 a year, we expected more. We're definitely switching."
+            }
+          ]
+        },
+        {
+          "speakerId": "7890123456789012",
+          "topic": "Small Talk",
+          "sentences": [
+            {
+              "start": 123500,
+              "end": 130300,
+              "text": "That's frustrating. What made you decide against Drata when you evaluated them?"
+            }
+          ]
+        },
+        {
+          "speakerId": "5678901234567890",
+          "topic": "Small Talk",
+          "sentences": [
+            {
+              "start": 130900,
+              "end": 138700,
+              "text": "Drata felt like it was built for tech companies, not e-commerce."
+            },
+            {
+              "start": 139300,
+              "end": 147100,
+              "text": "They didn't understand our payment flows or inventory systems."
+            },
+            {
+              "start": 147700,
+              "end": 155500,
+              "text": "And at $40,000, it was way over budget for something that didn't fit."
+            }
+          ]
+        },
+        {
+          "speakerId": "7890123456789012",
+          "topic": "Small Talk",
+          "sentences": [
+            {
+              "start": 156100,
+              "end": 163900,
+              "text": "E-commerce compliance is unique. We actually specialize in retail and payments."
+            },
+            {
+              "start": 164500,
+              "end": 172300,
+              "text": "We have pre-built integrations for Shopify, payment gateways, and inventory systems."
+            }
+          ]
+        },
+        {
+          "speakerId": "5678901234567890",
+          "topic": "Small Talk",
+          "sentences": [
+            {
+              "start": 172900,
+              "end": 179400,
+              "text": "Really? Do you integrate with Shopify Plus and Stripe?"
+            },
+            {
+              "start": 180000,
+              "end": 187800,
+              "text": "Those are our core platforms. TrustCloud doesn't support either."
+            }
+          ]
+        },
+        {
+          "speakerId": "7890123456789012",
+          "topic": "Small Talk",
+          "sentences": [
+            {
+              "start": 188400,
+              "end": 196200,
+              "text": "Yes! We have deep integrations with both, plus all major payment processors."
+            },
+            {
+              "start": 196800,
+              "end": 204600,
+              "text": "For PCI DSS, we automatically monitor your cardholder data environment."
+            },
+            {
+              "start": 205200,
+              "end": 213000,
+              "text": "No manual checklists - it's all automated scanning and evidence collection."
+            }
+          ]
+        },
+        {
+          "speakerId": "5678901234567890",
+          "topic": "Small Talk",
+          "sentences": [
+            {
+              "start": 213600,
+              "end": 220100,
+              "text": "That would save us so much time. What about seasonal traffic spikes?"
+            },
+            {
+              "start": 220700,
+              "end": 228500,
+              "text": "Our infrastructure scales 10x during Black Friday. Can you handle that?"
+            }
+          ]
+        },
+        {
+          "speakerId": "7890123456789012",
+          "topic": "Small Talk",
+          "sentences": [
+            {
+              "start": 229100,
+              "end": 236900,
+              "text": "Absolutely. Our monitoring adapts to your traffic patterns automatically."
+            },
+            {
+              "start": 237500,
+              "end": 245300,
+              "text": "We work with major e-commerce brands who see similar seasonal spikes."
+            },
+            {
+              "start": 245900,
+              "end": 253700,
+              "text": "Unlike TrustCloud or Drata, we understand e-commerce infrastructure needs."
+            }
+          ]
+        },
+        {
+          "speakerId": "5678901234567890",
+          "topic": "Pricing",
+          "sentences": [
+            {
+              "start": 254300,
+              "end": 260800,
+              "text": "This sounds much better aligned. What's the pricing structure?"
+            },
+            {
+              "start": 261400,
+              "end": 268900,
+              "text": "We're paying TrustCloud $22,000 but not getting value."
+            }
+          ]
+        },
+        {
+          "speakerId": "7890123456789012",
+          "topic": "Pricing",
+          "sentences": [
+            {
+              "start": 269500,
+              "end": 277300,
+              "text": "For a 400-person e-commerce company with PCI and SOC 2, it's $35,000-$40,000."
+            },
+            {
+              "start": 277900,
+              "end": 285700,
+              "text": "Yes, it's more than TrustCloud, but you get actual automation and PCI expertise."
+            },
+            {
+              "start": 286300,
+              "end": 294100,
+              "text": "Most e-commerce clients see 70% reduction in compliance workload."
+            }
+          ]
+        },
+        {
+          "speakerId": "5678901234567890",
+          "topic": "Pricing",
+          "sentences": [
+            {
+              "start": 294700,
+              "end": 301200,
+              "text": "The automation alone would justify that. We waste so much time now."
+            },
+            {
+              "start": 301800,
+              "end": 309600,
+              "text": "Can we migrate our existing compliance data from TrustCloud?"
+            }
+          ]
+        },
+        {
+          "speakerId": "7890123456789012",
+          "topic": "Next Steps",
+          "sentences": [
+            {
+              "start": 310200,
+              "end": 317000,
+              "text": "Yes, we have a migration team that handles TrustCloud transitions."
+            },
+            {
+              "start": 317600,
+              "end": 324400,
+              "text": "Should we set up a demo focused on e-commerce workflows?"
+            }
+          ]
+        },
+        {
+          "speakerId": "5678901234567890",
+          "topic": "Next Steps",
+          "sentences": [
+            {
+              "start": 325000,
+              "end": 331500,
+              "text": "Definitely. Can you show the Shopify and payment integrations?"
+            },
+            {
+              "start": 332100,
+              "end": 338600,
+              "text": "I'll bring our payments team lead - they need to see this."
+            }
+          ]
+        },
+        {
+          "speakerId": "7890123456789012",
+          "topic": "Wrap-up",
+          "sentences": [
+            {
+              "start": 339200,
+              "end": 345700,
+              "text": "Perfect! I'll focus the demo on your e-commerce use cases."
+            },
+            {
+              "start": 346300,
+              "end": 351800,
+              "text": "Good luck with Black Friday prep, Maria!"
+            }
+          ]
+        },
+        {
+          "speakerId": "5678901234567890",
+          "topic": "Wrap-up",
+          "sentences": [
+            {
+              "start": 352400,
+              "end": 357900,
+              "text": "Thanks Lisa! Looking forward to the demo. Bye!"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "callId": "8901234567890123",
+      "transcript": [
+        {
+          "speakerId": "3456789012345678",
+          "topic": "Call Setup",
+          "sentences": [
+            {
+              "start": 2100,
+              "end": 7200,
+              "text": "Hi Robert, this is Samantha from Phantom Sec. Thanks for joining today!"
+            },
+            {
+              "start": 7800,
+              "end": 12900,
+              "text": "I see you're with EduTech Pro - exciting space to be in right now."
+            }
+          ]
+        },
+        {
+          "speakerId": "9012345678901234",
+          "topic": "Call Setup",
+          "sentences": [
+            {
+              "start": 13500,
+              "end": 18600,
+              "text": "Hi Samantha, yes it's been quite a journey. I'm Robert, VP of Engineering."
+            },
+            {
+              "start": 19200,
+              "end": 24300,
+              "text": "We're seeing huge growth in the K-12 market especially."
+            }
+          ]
+        },
+        {
+          "speakerId": "3456789012345678",
+          "topic": "Small Talk",
+          "sentences": [
+            {
+              "start": 24900,
+              "end": 30000,
+              "text": "That's fantastic! How many school districts are you working with now?"
+            }
+          ]
+        },
+        {
+          "speakerId": "9012345678901234",
+          "topic": "Small Talk",
+          "sentences": [
+            {
+              "start": 30600,
+              "end": 37700,
+              "text": "We're in about 800 districts across 35 states, serving 2.5 million students."
+            },
+            {
+              "start": 38300,
+              "end": 45400,
+              "text": "With 250 employees, we're struggling to keep up with compliance demands."
+            },
+            {
+              "start": 46000,
+              "end": 53100,
+              "text": "School districts require FERPA compliance, plus many want SOC 2 and state-specific certifications."
+            }
+          ]
+        },
+        {
+          "speakerId": "3456789012345678",
+          "topic": "Small Talk",
+          "sentences": [
+            {
+              "start": 53700,
+              "end": 59200,
+              "text": "Education compliance is complex. What's your current approach?"
+            }
+          ]
+        },
+        {
+          "speakerId": "9012345678901234",
+          "topic": "Small Talk",
+          "sentences": [
+            {
+              "start": 59800,
+              "end": 67900,
+              "text": "We've been trying to manage it ourselves, but it's becoming unsustainable."
+            },
+            {
+              "start": 68500,
+              "end": 76600,
+              "text": "I've been evaluating solutions - looked at Secureframe pretty seriously."
+            },
+            {
+              "start": 77200,
+              "end": 85300,
+              "text": "Also had demos with TrustCloud and briefly considered Sprinto."
+            }
+          ]
+        },
+        {
+          "speakerId": "3456789012345678",
+          "topic": "Small Talk",
+          "sentences": [
+            {
+              "start": 85900,
+              "end": 91400,
+              "text": "What's been your impression of those platforms for your needs?"
+            }
+          ]
+        },
+        {
+          "speakerId": "9012345678901234",
+          "topic": "Small Talk",
+          "sentences": [
+            {
+              "start": 92000,
+              "end": 100100,
+              "text": "Secureframe has good guidance, which we need, but they don't understand education."
+            },
+            {
+              "start": 100700,
+              "end": 108800,
+              "text": "They kept talking about HIPAA when we need FERPA. It's completely different."
+            },
+            {
+              "start": 109400,
+              "end": 117500,
+              "text": "TrustCloud was affordable but too basic. No education-specific features at all."
+            },
+            {
+              "start": 118100,
+              "end": 126200,
+              "text": "Sprinto's automation looked good but their sales team couldn't answer education questions."
+            }
+          ]
+        },
+        {
+          "speakerId": "3456789012345678",
+          "topic": "Small Talk",
+          "sentences": [
+            {
+              "start": 126800,
+              "end": 134600,
+              "text": "Education data privacy is unique. We actually have a dedicated education compliance team."
+            },
+            {
+              "start": 135200,
+              "end": 143000,
+              "text": "We work with many EdTech companies and understand FERPA, COPPA, and state laws."
+            }
+          ]
+        },
+        {
+          "speakerId": "9012345678901234",
+          "topic": "Small Talk",
+          "sentences": [
+            {
+              "start": 143600,
+              "end": 150100,
+              "text": "That's exactly what we need. Do you handle state-specific requirements?"
+            },
+            {
+              "start": 150700,
+              "end": 158800,
+              "text": "California has SOPIPA, New York has Ed Law 2-D, Texas has SB 89..."
+            },
+            {
+              "start": 159400,
+              "end": 167500,
+              "text": "It's a nightmare trying to track all these different student privacy laws."
+            }
+          ]
+        },
+        {
+          "speakerId": "3456789012345678",
+          "topic": "Small Talk",
+          "sentences": [
+            {
+              "start": 168100,
+              "end": 175900,
+              "text": "We maintain templates for all major state education privacy laws."
+            },
+            {
+              "start": 176500,
+              "end": 184300,
+              "text": "Our platform automatically maps your controls to each state's requirements."
+            },
+            {
+              "start": 184900,
+              "end": 192700,
+              "text": "This is something none of our competitors offer - they focus on general compliance."
+            }
+          ]
+        },
+        {
+          "speakerId": "9012345678901234",
+          "topic": "Small Talk",
+          "sentences": [
+            {
+              "start": 193300,
+              "end": 199800,
+              "text": "That would be huge. What about integrations with education platforms?"
+            },
+            {
+              "start": 200400,
+              "end": 208500,
+              "text": "We use Google Workspace for Education, Clever, Canvas LMS, and custom APIs."
+            }
+          ]
+        },
+        {
+          "speakerId": "3456789012345678",
+          "topic": "Small Talk",
+          "sentences": [
+            {
+              "start": 209100,
+              "end": 216900,
+              "text": "We integrate with all major education platforms - Google, Clever, Canvas, Schoology."
+            },
+            {
+              "start": 217500,
+              "end": 225300,
+              "text": "Plus we understand student data flows and can monitor for proper data minimization."
+            },
+            {
+              "start": 225900,
+              "end": 233700,
+              "text": "Secureframe and others treat education like any other vertical, but it's not."
+            }
+          ]
+        },
+        {
+          "speakerId": "9012345678901234",
+          "topic": "Small Talk",
+          "sentences": [
+            {
+              "start": 234300,
+              "end": 241800,
+              "text": "Absolutely. We deal with minors' data - the stakes are much higher."
+            },
+            {
+              "start": 242400,
+              "end": 250500,
+              "text": "How do you handle district security assessments? We get dozens every month."
+            }
+          ]
+        },
+        {
+          "speakerId": "3456789012345678",
+          "topic": "Small Talk",
+          "sentences": [
+            {
+              "start": 251100,
+              "end": 258900,
+              "text": "Our AI handles education questionnaires specifically - knows FERPA language."
+            },
+            {
+              "start": 259500,
+              "end": 267300,
+              "text": "We can auto-respond to 85% of district security assessments accurately."
+            },
+            {
+              "start": 267900,
+              "end": 275700,
+              "text": "Most of our EdTech clients reduce questionnaire time from days to hours."
+            }
+          ]
+        },
+        {
+          "speakerId": "9012345678901234",
+          "topic": "Pricing",
+          "sentences": [
+            {
+              "start": 276300,
+              "end": 282800,
+              "text": "This sounds perfect for us. What's the investment level?"
+            },
+            {
+              "start": 283400,
+              "end": 290900,
+              "text": "Secureframe quoted us $28,000 but without education features."
+            }
+          ]
+        },
+        {
+          "speakerId": "3456789012345678",
+          "topic": "Pricing",
+          "sentences": [
+            {
+              "start": 291500,
+              "end": 299300,
+              "text": "For a 250-person EdTech company with FERPA and SOC 2, you're looking at $35,000-$40,000."
+            },
+            {
+              "start": 299900,
+              "end": 307700,
+              "text": "It's more than Secureframe, but you get education expertise they can't provide."
+            },
+            {
+              "start": 308300,
+              "end": 316100,
+              "text": "Most EdTech clients see ROI within months from faster district approvals."
+            }
+          ]
+        },
+        {
+          "speakerId": "9012345678901234",
+          "topic": "Pricing",
+          "sentences": [
+            {
+              "start": 316700,
+              "end": 323200,
+              "text": "The education focus justifies the price. Time to market is critical."
+            },
+            {
+              "start": 323800,
+              "end": 331600,
+              "text": "Every week of delay in district approval costs us potential revenue."
+            }
+          ]
+        },
+        {
+          "speakerId": "3456789012345678",
+          "topic": "Next Steps",
+          "sentences": [
+            {
+              "start": 332200,
+              "end": 339000,
+              "text": "Exactly. Should we set up a demo focused on education workflows?"
+            },
+            {
+              "start": 339600,
+              "end": 346400,
+              "text": "I can show FERPA controls and state compliance mapping."
+            }
+          ]
+        },
+        {
+          "speakerId": "9012345678901234",
+          "topic": "Next Steps",
+          "sentences": [
+            {
+              "start": 347000,
+              "end": 353500,
+              "text": "Yes, please. Can you include our compliance lead? She's ex-district."
+            },
+            {
+              "start": 354100,
+              "end": 360600,
+              "text": "She'll know immediately if this actually works for education."
+            }
+          ]
+        },
+        {
+          "speakerId": "3456789012345678",
+          "topic": "Next Steps",
+          "sentences": [
+            {
+              "start": 361200,
+              "end": 367700,
+              "text": "Perfect! District experience is invaluable. How's Thursday morning?"
+            },
+            {
+              "start": 368300,
+              "end": 374800,
+              "text": "I'll prepare education-specific examples and case studies."
+            }
+          ]
+        },
+        {
+          "speakerId": "9012345678901234",
+          "topic": "Wrap-up",
+          "sentences": [
+            {
+              "start": 375400,
+              "end": 381900,
+              "text": "Thursday at 10 AM works great. This is really encouraging, Samantha."
+            },
+            {
+              "start": 382500,
+              "end": 388000,
+              "text": "Finally someone who understands education compliance!"
+            }
+          ]
+        },
+        {
+          "speakerId": "3456789012345678",
+          "topic": "Wrap-up",
+          "sentences": [
+            {
+              "start": 388600,
+              "end": 395100,
+              "text": "We're passionate about protecting student data. See you Thursday, Robert!"
+            }
+          ]
+        },
+        {
+          "speakerId": "9012345678901234",
+          "topic": "Wrap-up",
+          "sentences": [
+            {
+              "start": 395700,
+              "end": 400200,
+              "text": "Thanks Samantha! Talk soon. Bye!"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "callId": "4567890123456789",
+      "transcript": [
+        {
+          "speakerId": "6789012345678901",
+          "topic": "Call Setup",
+          "sentences": [
+            {
+              "start": 1900,
+              "end": 6600,
+              "text": "Hi Mike, this is Jennifer from Phantom Sec. How's everything in Chicago?"
+            },
+            {
+              "start": 7200,
+              "end": 11900,
+              "text": "I appreciate you making time - I know logistics companies are always busy."
+            }
+          ]
+        },
+        {
+          "speakerId": "2345678901234567",
+          "topic": "Call Setup",
+          "sentences": [
+            {
+              "start": 12500,
+              "end": 17200,
+              "text": "Hi Jennifer! Chicago's cold but business is hot. I'm Mike, the CISO here."
+            },
+            {
+              "start": 17800,
+              "end": 22500,
+              "text": "GlobalShip Logistics - we move about 500,000 packages daily."
+            }
+          ]
+        },
+        {
+          "speakerId": "6789012345678901",
+          "topic": "Small Talk",
+          "sentences": [
+            {
+              "start": 23100,
+              "end": 27800,
+              "text": "500,000 packages daily - that's impressive scale!"
+            },
+            {
+              "start": 28400,
+              "end": 33100,
+              "text": "With that volume, security and compliance must be critical."
+            }
+          ]
+        },
+        {
+          "speakerId": "2345678901234567",
+          "topic": "Small Talk",
+          "sentences": [
+            {
+              "start": 33700,
+              "end": 41500,
+              "text": "Absolutely. We handle shipments for Fortune 500 companies, government contracts, healthcare supplies."
+            },
+            {
+              "start": 42100,
+              "end": 49900,
+              "text": "We're 1,800 employees across 25 warehouses. Compliance is becoming a major bottleneck."
+            },
+            {
+              "start": 50500,
+              "end": 58300,
+              "text": "Our enterprise clients are demanding SOC 2, ISO 27001, and some want FedRAMP."
+            }
+          ]
+        },
+        {
+          "speakerId": "6789012345678901",
+          "topic": "Small Talk",
+          "sentences": [
+            {
+              "start": 58900,
+              "end": 64400,
+              "text": "FedRAMP for logistics is serious. What's driving that requirement?"
+            }
+          ]
+        },
+        {
+          "speakerId": "2345678901234567",
+          "topic": "Small Talk",
+          "sentences": [
+            {
+              "start": 65000,
+              "end": 72800,
+              "text": "We're bidding on DOD contracts for military supply chain. FedRAMP is mandatory."
+            },
+            {
+              "start": 73400,
+              "end": 81200,
+              "text": "Right now we're trying to manage compliance with spreadsheets and consultants."
+            },
+            {
+              "start": 81800,
+              "end": 89600,
+              "text": "I've looked at Drata extensively, and also evaluated Secureframe briefly."
+            }
+          ]
+        },
+        {
+          "speakerId": "6789012345678901",
+          "topic": "Small Talk",
+          "sentences": [
+            {
+              "start": 90200,
+              "end": 95700,
+              "text": "What's been your experience with Drata for your needs?"
+            }
+          ]
+        },
+        {
+          "speakerId": "2345678901234567",
+          "topic": "Small Talk",
+          "sentences": [
+            {
+              "start": 96300,
+              "end": 104100,
+              "text": "Drata has great technical features, but it's overwhelming for our non-technical teams."
+            },
+            {
+              "start": 104700,
+              "end": 112500,
+              "text": "Plus, they don't really understand logistics. They keep talking about SaaS workflows."
+            },
+            {
+              "start": 113100,
+              "end": 120900,
+              "text": "And their FedRAMP support is basically non-existent. They admitted it's not their focus."
+            },
+            {
+              "start": 121500,
+              "end": 129300,
+              "text": "At $65,000 annually, it's expensive for something that doesn't fit our industry."
+            }
+          ]
+        },
+        {
+          "speakerId": "6789012345678901",
+          "topic": "Small Talk",
+          "sentences": [
+            {
+              "start": 129900,
+              "end": 136400,
+              "text": "That's a lot to pay for a poor fit. What about Secureframe?"
+            }
+          ]
+        },
+        {
+          "speakerId": "2345678901234567",
+          "topic": "Small Talk",
+          "sentences": [
+            {
+              "start": 137000,
+              "end": 144800,
+              "text": "Secureframe was more user-friendly, but too manual for our scale."
+            },
+            {
+              "start": 145400,
+              "end": 153200,
+              "text": "With 25 locations, we can't have people manually uploading evidence constantly."
+            },
+            {
+              "start": 153800,
+              "end": 161600,
+              "text": "They quoted $35,000, which is more reasonable, but the lack of automation is a dealbreaker."
+            }
+          ]
+        },
+        {
+          "speakerId": "6789012345678901",
+          "topic": "Small Talk",
+          "sentences": [
+            {
+              "start": 162200,
+              "end": 170000,
+              "text": "Multi-site logistics requires different thinking. We actually specialize in distributed operations."
+            },
+            {
+              "start": 170600,
+              "end": 178400,
+              "text": "We can aggregate compliance data across all 25 warehouses automatically."
+            }
+          ]
+        },
+        {
+          "speakerId": "2345678901234567",
+          "topic": "Small Talk",
+          "sentences": [
+            {
+              "start": 179000,
+              "end": 185500,
+              "text": "That's exactly what we need. Do you integrate with WMS systems?"
+            },
+            {
+              "start": 186100,
+              "end": 193900,
+              "text": "We use SAP for warehouse management, plus various IoT sensors and tracking systems."
+            }
+          ]
+        },
+        {
+          "speakerId": "6789012345678901",
+          "topic": "Small Talk",
+          "sentences": [
+            {
+              "start": 194500,
+              "end": 202300,
+              "text": "Yes, we have deep SAP integration and support for IoT data collection."
+            },
+            {
+              "start": 202900,
+              "end": 210700,
+              "text": "For FedRAMP, we have pre-built controls and continuous monitoring specific to that framework."
+            },
+            {
+              "start": 211300,
+              "end": 219100,
+              "text": "Unlike Drata or Secureframe, we understand the unique needs of logistics and supply chain."
+            }
+          ]
+        },
+        {
+          "speakerId": "2345678901234567",
+          "topic": "Small Talk",
+          "sentences": [
+            {
+              "start": 219700,
+              "end": 226200,
+              "text": "FedRAMP support is crucial. How long does implementation typically take?"
+            },
+            {
+              "start": 226800,
+              "end": 234600,
+              "text": "The DOD contract opportunity closes in 6 months. We need to move fast."
+            }
+          ]
+        },
+        {
+          "speakerId": "6789012345678901",
+          "topic": "Small Talk",
+          "sentences": [
+            {
+              "start": 235200,
+              "end": 243000,
+              "text": "For FedRAMP Moderate, we can get you audit-ready in 4-5 months."
+            },
+            {
+              "start": 243600,
+              "end": 251400,
+              "text": "We've done this for other logistics companies pursuing government contracts."
+            },
+            {
+              "start": 252000,
+              "end": 259800,
+              "text": "The key is our automation - what takes others 8-10 months, we do in half the time."
+            }
+          ]
+        },
+        {
+          "speakerId": "2345678901234567",
+          "topic": "Small Talk",
+          "sentences": [
+            {
+              "start": 260400,
+              "end": 267900,
+              "text": "That timeline works. What about ongoing compliance after certification?"
+            },
+            {
+              "start": 268500,
+              "end": 276300,
+              "text": "FedRAMP requires continuous monitoring. Our team is already stretched thin."
+            }
+          ]
+        },
+        {
+          "speakerId": "6789012345678901",
+          "topic": "Small Talk",
+          "sentences": [
+            {
+              "start": 276900,
+              "end": 284700,
+              "text": "Our platform handles continuous monitoring automatically across all locations."
+            },
+            {
+              "start": 285300,
+              "end": 293100,
+              "text": "You'll get real-time alerts if any warehouse falls out of compliance."
+            },
+            {
+              "start": 293700,
+              "end": 301500,
+              "text": "Most logistics clients reduce compliance workload by 85% after implementation."
+            }
+          ]
+        },
+        {
+          "speakerId": "2345678901234567",
+          "topic": "Pricing",
+          "sentences": [
+            {
+              "start": 302100,
+              "end": 308600,
+              "text": "This sounds like what we've been looking for. What's the pricing?"
+            },
+            {
+              "start": 309200,
+              "end": 316700,
+              "text": "As I mentioned, Drata was $65,000 and Secureframe was $35,000."
+            }
+          ]
+        },
+        {
+          "speakerId": "6789012345678901",
+          "topic": "Pricing",
+          "sentences": [
+            {
+              "start": 317300,
+              "end": 325100,
+              "text": "For an 1,800-person company with FedRAMP needs, you're looking at $75,000-$85,000."
+            },
+            {
+              "start": 325700,
+              "end": 333500,
+              "text": "Yes, it's more than the others, but we're the only one with real FedRAMP expertise."
+            },
+            {
+              "start": 334100,
+              "end": 341900,
+              "text": "Consider that winning one DOD contract could bring millions in revenue."
+            }
+          ]
+        },
+        {
+          "speakerId": "2345678901234567",
+          "topic": "Pricing",
+          "sentences": [
+            {
+              "start": 342500,
+              "end": 349000,
+              "text": "When you put it that way, the ROI is clear."
+            },
+            {
+              "start": 349600,
+              "end": 357400,
+              "text": "The DOD contract alone is worth $50 million over 5 years."
+            }
+          ]
+        },
+        {
+          "speakerId": "6789012345678901",
+          "topic": "Next Steps",
+          "sentences": [
+            {
+              "start": 358000,
+              "end": 364500,
+              "text": "Exactly. Should we schedule a technical demo with your team?"
+            },
+            {
+              "start": 365100,
+              "end": 371600,
+              "text": "I can show the FedRAMP controls and multi-site management."
+            }
+          ]
+        },
+        {
+          "speakerId": "2345678901234567",
+          "topic": "Next Steps",
+          "sentences": [
+            {
+              "start": 372200,
+              "end": 378700,
+              "text": "Definitely. I need to include our VP of Operations."
+            },
+            {
+              "start": 379300,
+              "end": 385800,
+              "text": "He manages all 25 warehouses and needs to see how this scales."
+            }
+          ]
+        },
+        {
+          "speakerId": "6789012345678901",
+          "topic": "Next Steps",
+          "sentences": [
+            {
+              "start": 386400,
+              "end": 392900,
+              "text": "Perfect! How about Wednesday at 2 PM Central?"
+            },
+            {
+              "start": 393500,
+              "end": 400000,
+              "text": "I'll also bring a case study from another logistics company with FedRAMP."
+            }
+          ]
+        },
+        {
+          "speakerId": "2345678901234567",
+          "topic": "Wrap-up",
+          "sentences": [
+            {
+              "start": 400600,
+              "end": 406100,
+              "text": "Wednesday works perfectly. This could be game-changing for us."
+            },
+            {
+              "start": 406700,
+              "end": 412200,
+              "text": "Thanks for understanding our industry, Jennifer!"
+            }
+          ]
+        },
+        {
+          "speakerId": "6789012345678901",
+          "topic": "Wrap-up",
+          "sentences": [
+            {
+              "start": 412800,
+              "end": 419300,
+              "text": "My pleasure, Mike! Logistics compliance is our specialty. See you Wednesday!"
+            }
+          ]
+        },
+        {
+          "speakerId": "2345678901234567",
+          "topic": "Wrap-up",
+          "sentences": [
+            {
+              "start": 419900,
+              "end": 424400,
+              "text": "Looking forward to it. Bye Jennifer!"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "callId": "7890123456789012",
+      "transcript": [
+        {
+          "speakerId": "1234567890123456",
+          "topic": "Call Setup",
+          "sentences": [
+            {
+              "start": 2400,
+              "end": 7500,
+              "text": "Hi Patricia, this is Carlos from Phantom Sec. How are things in Detroit?"
+            },
+            {
+              "start": 8100,
+              "end": 13200,
+              "text": "I understand you're with Precision Manufacturing - impressive operation you have there."
+            }
+          ]
+        },
+        {
+          "speakerId": "8901234567890123",
+          "topic": "Call Setup",
+          "sentences": [
+            {
+              "start": 13800,
+              "end": 18900,
+              "text": "Hi Carlos, things are busy as always! I'm Patricia, Director of IT."
+            },
+            {
+              "start": 19500,
+              "end": 24600,
+              "text": "We manufacture precision parts for aerospace and automotive industries."
+            }
+          ]
+        },
+        {
+          "speakerId": "1234567890123456",
+          "topic": "Small Talk",
+          "sentences": [
+            {
+              "start": 25200,
+              "end": 30300,
+              "text": "Aerospace and automotive - that's high-stakes manufacturing!"
+            },
+            {
+              "start": 30900,
+              "end": 36000,
+              "text": "Quality and security must be absolutely critical for you."
+            }
+          ]
+        },
+        {
+          "speakerId": "8901234567890123",
+          "topic": "Small Talk",
+          "sentences": [
+            {
+              "start": 36600,
+              "end": 44400,
+              "text": "Exactly. We're a 500-employee company with zero tolerance for defects or security breaches."
+            },
+            {
+              "start": 45000,
+              "end": 52800,
+              "text": "Our customers include Boeing, Ford, GM - they're demanding stricter compliance every year."
+            },
+            {
+              "start": 53400,
+              "end": 61200,
+              "text": "We need SOC 2 for IT systems, plus industry-specific certifications like AS9100 and IATF 16949."
+            }
+          ]
+        },
+        {
+          "speakerId": "1234567890123456",
+          "topic": "Small Talk",
+          "sentences": [
+            {
+              "start": 61800,
+              "end": 67300,
+              "text": "Manufacturing compliance is unique. How are you managing it today?"
+            }
+          ]
+        },
+        {
+          "speakerId": "8901234567890123",
+          "topic": "Small Talk",
+          "sentences": [
+            {
+              "start": 67900,
+              "end": 75700,
+              "text": "Honestly, it's a mess. We have quality management systems for manufacturing compliance."
+            },
+            {
+              "start": 76300,
+              "end": 84100,
+              "text": "But IT compliance is separate, mostly manual. We evaluated TrustCloud and Sprinto."
+            },
+            {
+              "start": 84700,
+              "end": 92500,
+              "text": "Neither understood manufacturing. They kept pushing SaaS templates on us."
+            }
+          ]
+        },
+        {
+          "speakerId": "1234567890123456",
+          "topic": "Small Talk",
+          "sentences": [
+            {
+              "start": 93100,
+              "end": 98600,
+              "text": "What specific issues did you encounter with those platforms?"
+            }
+          ]
+        },
+        {
+          "speakerId": "8901234567890123",
+          "topic": "Small Talk",
+          "sentences": [
+            {
+              "start": 99200,
+              "end": 107000,
+              "text": "TrustCloud was cheap at $18,000 but completely manual. No integration with our MES systems."
+            },
+            {
+              "start": 107600,
+              "end": 115400,
+              "text": "Sprinto promised automation but couldn't handle our manufacturing execution systems."
+            },
+            {
+              "start": 116000,
+              "end": 123800,
+              "text": "Plus, they quoted $38,000 and wanted 12 weeks for implementation. Too slow for us."
+            },
+            {
+              "start": 124400,
+              "end": 132200,
+              "text": "We also briefly looked at Secureframe, but they seemed focused on startups, not manufacturing."
+            }
+          ]
+        },
+        {
+          "speakerId": "1234567890123456",
+          "topic": "Small Talk",
+          "sentences": [
+            {
+              "start": 132800,
+              "end": 140600,
+              "text": "Manufacturing IT is different. We actually have deep experience with industrial systems."
+            },
+            {
+              "start": 141200,
+              "end": 149000,
+              "text": "We integrate with MES, ERP, SCADA systems - understanding your production environment."
+            }
+          ]
+        },
+        {
+          "speakerId": "8901234567890123",
+          "topic": "Small Talk",
+          "sentences": [
+            {
+              "start": 149600,
+              "end": 156100,
+              "text": "SCADA integration? That's impressive. We use Rockwell and Siemens systems."
+            },
+            {
+              "start": 156700,
+              "end": 164500,
+              "text": "Can you handle the IT/OT convergence? That's where we're struggling most."
+            }
+          ]
+        },
+        {
+          "speakerId": "1234567890123456",
+          "topic": "Small Talk",
+          "sentences": [
+            {
+              "start": 165100,
+              "end": 172900,
+              "text": "Absolutely. We help bridge IT and OT compliance, which is crucial for modern manufacturing."
+            },
+            {
+              "start": 173500,
+              "end": 181300,
+              "text": "We can monitor both your enterprise IT and your production floor systems for compliance."
+            },
+            {
+              "start": 181900,
+              "end": 189700,
+              "text": "This unified approach is something TrustCloud and Sprinto simply can't offer."
+            }
+          ]
+        },
+        {
+          "speakerId": "8901234567890123",
+          "topic": "Small Talk",
+          "sentences": [
+            {
+              "start": 190300,
+              "end": 197100,
+              "text": "That's exactly what we need. What about supply chain security?"
+            },
+            {
+              "start": 197700,
+              "end": 205500,
+              "text": "Boeing requires us to validate our entire supplier network for cybersecurity."
+            }
+          ]
+        },
+        {
+          "speakerId": "1234567890123456",
+          "topic": "Small Talk",
+          "sentences": [
+            {
+              "start": 206100,
+              "end": 213900,
+              "text": "We have vendor risk management built in, specifically designed for manufacturing supply chains."
+            },
+            {
+              "start": 214500,
+              "end": 222300,
+              "text": "You can track and validate all your suppliers, sub-suppliers, even raw material sources."
+            },
+            {
+              "start": 222900,
+              "end": 230700,
+              "text": "Many aerospace manufacturers use us specifically for DFARS and CMMC compliance."
+            }
+          ]
+        },
+        {
+          "speakerId": "8901234567890123",
+          "topic": "Small Talk",
+          "sentences": [
+            {
+              "start": 231300,
+              "end": 238100,
+              "text": "CMMC is coming fast. Can you help us prepare for that?"
+            },
+            {
+              "start": 238700,
+              "end": 246500,
+              "text": "We're currently at CMMC Level 1, but Boeing wants Level 3 by next year."
+            }
+          ]
+        },
+        {
+          "speakerId": "1234567890123456",
+          "topic": "Small Talk",
+          "sentences": [
+            {
+              "start": 247100,
+              "end": 254900,
+              "text": "We can get you to CMMC Level 3 in 6 months. We've done it for dozens of manufacturers."
+            },
+            {
+              "start": 255500,
+              "end": 263300,
+              "text": "Our platform maps your current controls to CMMC requirements and shows exactly what's missing."
+            },
+            {
+              "start": 263900,
+              "end": 271700,
+              "text": "Unlike generic tools, we understand manufacturing-specific CMMC implementation."
+            }
+          ]
+        },
+        {
+          "speakerId": "8901234567890123",
+          "topic": "Pricing",
+          "sentences": [
+            {
+              "start": 272300,
+              "end": 278800,
+              "text": "This sounds comprehensive. What kind of investment are we looking at?"
+            },
+            {
+              "start": 279400,
+              "end": 286900,
+              "text": "For context, TrustCloud was $18,000, Sprinto was $38,000."
+            }
+          ]
+        },
+        {
+          "speakerId": "1234567890123456",
+          "topic": "Pricing",
+          "sentences": [
+            {
+              "start": 287500,
+              "end": 295300,
+              "text": "For a 500-person manufacturer with CMMC needs, you're looking at $55,000-$65,000."
+            },
+            {
+              "start": 295900,
+              "end": 303700,
+              "text": "Yes, it's more, but you're getting manufacturing-specific expertise and IT/OT integration."
+            },
+            {
+              "start": 304300,
+              "end": 312100,
+              "text": "Consider that failing CMMC could cost you millions in Boeing contracts."
+            }
+          ]
+        },
+        {
+          "speakerId": "8901234567890123",
+          "topic": "Pricing",
+          "sentences": [
+            {
+              "start": 312700,
+              "end": 319200,
+              "text": "That's true. One Boeing contract is worth $20 million annually to us."
+            },
+            {
+              "start": 319800,
+              "end": 327600,
+              "text": "If this gets us CMMC Level 3 faster, it pays for itself immediately."
+            }
+          ]
+        },
+        {
+          "speakerId": "1234567890123456",
+          "topic": "Next Steps",
+          "sentences": [
+            {
+              "start": 328200,
+              "end": 334700,
+              "text": "Exactly. Should we set up a demo with your operations team?"
+            },
+            {
+              "start": 335300,
+              "end": 341800,
+              "text": "I can show how we handle IT/OT convergence and CMMC mapping."
+            }
+          ]
+        },
+        {
+          "speakerId": "8901234567890123",
+          "topic": "Next Steps",
+          "sentences": [
+            {
+              "start": 342400,
+              "end": 348900,
+              "text": "Yes, I need to include our Plant Manager and Quality Director."
+            },
+            {
+              "start": 349500,
+              "end": 356000,
+              "text": "They manage the OT side and need to see how this integrates."
+            }
+          ]
+        },
+        {
+          "speakerId": "1234567890123456",
+          "topic": "Next Steps",
+          "sentences": [
+            {
+              "start": 356600,
+              "end": 363100,
+              "text": "Perfect! How's Friday at 10 AM Eastern?"
+            },
+            {
+              "start": 363700,
+              "end": 370200,
+              "text": "I'll bring examples from other aerospace manufacturers."
+            }
+          ]
+        },
+        {
+          "speakerId": "8901234567890123",
+          "topic": "Wrap-up",
+          "sentences": [
+            {
+              "start": 370800,
+              "end": 376300,
+              "text": "Friday at 10 works. This is exactly what we've been looking for."
+            },
+            {
+              "start": 376900,
+              "end": 382400,
+              "text": "Finally someone who understands manufacturing!"
+            }
+          ]
+        },
+        {
+          "speakerId": "1234567890123456",
+          "topic": "Wrap-up",
+          "sentences": [
+            {
+              "start": 383000,
+              "end": 389500,
+              "text": "We're here to help manufacturers succeed. See you Friday, Patricia!"
+            }
+          ]
+        },
+        {
+          "speakerId": "8901234567890123",
+          "topic": "Wrap-up",
+          "sentences": [
+            {
+              "start": 390100,
+              "end": 394600,
+              "text": "Thanks Carlos! Looking forward to it. Bye!"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "callId": "5678901234567890",
+      "transcript": [
+        {
+          "speakerId": "2345678901234567",
+          "topic": "Call Setup",
+          "sentences": [
+            {
+              "start": 2000,
+              "end": 6700,
+              "text": "Hi Nancy, this is Emma from Phantom Sec. Thanks for taking my call!"
+            },
+            {
+              "start": 7300,
+              "end": 12000,
+              "text": "I know non-profits are always stretched thin, so I appreciate your time."
+            }
+          ]
+        },
+        {
+          "speakerId": "3456789012345678",
+          "topic": "Call Setup",
+          "sentences": [
+            {
+              "start": 12600,
+              "end": 17300,
+              "text": "Hi Emma! No problem at all. I'm Nancy, Director of Operations."
+            },
+            {
+              "start": 17900,
+              "end": 22600,
+              "text": "Global Health Initiative - we provide medical aid in 40 countries."
+            }
+          ]
+        },
+        {
+          "speakerId": "2345678901234567",
+          "topic": "Small Talk",
+          "sentences": [
+            {
+              "start": 23200,
+              "end": 27900,
+              "text": "40 countries - that's incredible impact! How many people on your team?"
+            }
+          ]
+        },
+        {
+          "speakerId": "3456789012345678",
+          "topic": "Small Talk",
+          "sentences": [
+            {
+              "start": 28500,
+              "end": 35300,
+              "text": "We have 180 staff members, plus thousands of volunteers worldwide."
+            },
+            {
+              "start": 35900,
+              "end": 43700,
+              "text": "Managing donor data and health information across borders is getting complex."
+            },
+            {
+              "start": 44300,
+              "end": 52100,
+              "text": "Major donors and government grants now require SOC 2 certification. It's new territory for us."
+            }
+          ]
+        },
+        {
+          "speakerId": "2345678901234567",
+          "topic": "Small Talk",
+          "sentences": [
+            {
+              "start": 52700,
+              "end": 58200,
+              "text": "Compliance requirements for non-profits have really increased. What have you explored?"
+            }
+          ]
+        },
+        {
+          "speakerId": "3456789012345678",
+          "topic": "Small Talk",
+          "sentences": [
+            {
+              "start": 58800,
+              "end": 66600,
+              "text": "We looked at several options. Drata was our first stop - way too technical for us."
+            },
+            {
+              "start": 67200,
+              "end": 75000,
+              "text": "Then TrustCloud, which was more affordable, but still felt very corporate-focused."
+            },
+            {
+              "start": 75600,
+              "end": 83400,
+              "text": "We need something that understands non-profits - our structure is different from businesses."
+            }
+          ]
+        },
+        {
+          "speakerId": "2345678901234567",
+          "topic": "Small Talk",
+          "sentences": [
+            {
+              "start": 84000,
+              "end": 89500,
+              "text": "What specific challenges did you face with those platforms?"
+            }
+          ]
+        },
+        {
+          "speakerId": "3456789012345678",
+          "topic": "Small Talk",
+          "sentences": [
+            {
+              "start": 90100,
+              "end": 97900,
+              "text": "Drata assumed we had a full IT team. Their interface was overwhelming for our small staff."
+            },
+            {
+              "start": 98500,
+              "end": 106300,
+              "text": "They quoted us $30,000, which is huge for a non-profit. That's like hiring another staff member."
+            },
+            {
+              "start": 106900,
+              "end": 114700,
+              "text": "TrustCloud was $15,000, more reasonable, but they didn't understand donor data privacy."
+            },
+            {
+              "start": 115300,
+              "end": 123100,
+              "text": "Neither platform had experience with GDPR for our European operations or health data handling."
+            }
+          ]
+        },
+        {
+          "speakerId": "2345678901234567",
+          "topic": "Small Talk",
+          "sentences": [
+            {
+              "start": 123700,
+              "end": 131500,
+              "text": "Non-profits have unique needs. We actually have a dedicated non-profit program."
+            },
+            {
+              "start": 132100,
+              "end": 139900,
+              "text": "We understand donor privacy, volunteer data, and international compliance requirements."
+            }
+          ]
+        },
+        {
+          "speakerId": "3456789012345678",
+          "topic": "Small Talk",
+          "sentences": [
+            {
+              "start": 140500,
+              "end": 147000,
+              "text": "Really? Do you work with other international NGOs?"
+            },
+            {
+              "start": 147600,
+              "end": 155400,
+              "text": "We handle sensitive health data from field clinics. HIPAA plus GDPR is a nightmare."
+            }
+          ]
+        },
+        {
+          "speakerId": "2345678901234567",
+          "topic": "Small Talk",
+          "sentences": [
+            {
+              "start": 156000,
+              "end": 163800,
+              "text": "Yes, we work with several global health organizations. We understand multi-jurisdiction compliance."
+            },
+            {
+              "start": 164400,
+              "end": 172200,
+              "text": "Our platform can handle HIPAA for US operations and GDPR for European donors simultaneously."
+            },
+            {
+              "start": 172800,
+              "end": 180600,
+              "text": "Plus, we integrate with common non-profit tools like Salesforce NPSP and Blackbaud."
+            }
+          ]
+        },
+        {
+          "speakerId": "3456789012345678",
+          "topic": "Small Talk",
+          "sentences": [
+            {
+              "start": 181200,
+              "end": 187700,
+              "text": "Salesforce NPSP integration would be huge! That's our donor database."
+            },
+            {
+              "start": 188300,
+              "end": 196100,
+              "text": "What about volunteers? We have thousands who access our systems temporarily."
+            }
+          ]
+        },
+        {
+          "speakerId": "2345678901234567",
+          "topic": "Small Talk",
+          "sentences": [
+            {
+              "start": 196700,
+              "end": 204500,
+              "text": "We have special controls for volunteer access management and temporary user monitoring."
+            },
+            {
+              "start": 205100,
+              "end": 212900,
+              "text": "Many non-profits struggle with this - we've built specific features for volunteer organizations."
+            },
+            {
+              "start": 213500,
+              "end": 221300,
+              "text": "Unlike Drata or TrustCloud, we understand your workforce isn't just employees."
+            }
+          ]
+        },
+        {
+          "speakerId": "3456789012345678",
+          "topic": "Small Talk",
+          "sentences": [
+            {
+              "start": 221900,
+              "end": 228400,
+              "text": "This is exactly what we need. But honestly, budget is our biggest concern."
+            },
+            {
+              "start": 229000,
+              "end": 236800,
+              "text": "Every dollar we spend on compliance is a dollar not going to patient care."
+            }
+          ]
+        },
+        {
+          "speakerId": "2345678901234567",
+          "topic": "Pricing",
+          "sentences": [
+            {
+              "start": 237400,
+              "end": 244200,
+              "text": "I completely understand. That's why we offer special non-profit pricing."
+            },
+            {
+              "start": 244800,
+              "end": 252600,
+              "text": "For a 180-person NGO, you'd qualify for our non-profit rate of $20,000-$25,000."
+            },
+            {
+              "start": 253200,
+              "end": 261000,
+              "text": "That's about 50% off our commercial pricing, and includes everything you need."
+            }
+          ]
+        },
+        {
+          "speakerId": "3456789012345678",
+          "topic": "Pricing",
+          "sentences": [
+            {
+              "start": 261600,
+              "end": 268100,
+              "text": "That's more reasonable than Drata, and you actually understand our needs."
+            },
+            {
+              "start": 268700,
+              "end": 276500,
+              "text": "Can we pay quarterly? Annual payments are tough for our cash flow."
+            }
+          ]
+        },
+        {
+          "speakerId": "2345678901234567",
+          "topic": "Pricing",
+          "sentences": [
+            {
+              "start": 277100,
+              "end": 283600,
+              "text": "Absolutely. We offer quarterly payments for non-profits at no extra charge."
+            },
+            {
+              "start": 284200,
+              "end": 291000,
+              "text": "We know grant cycles and donation timing affect your budgeting."
+            }
+          ]
+        },
+        {
+          "speakerId": "3456789012345678",
+          "topic": "Next Steps",
+          "sentences": [
+            {
+              "start": 291600,
+              "end": 298100,
+              "text": "This is really promising. I need to discuss with our Executive Director."
+            },
+            {
+              "start": 298700,
+              "end": 305200,
+              "text": "Could you show us how it handles international data privacy?"
+            }
+          ]
+        },
+        {
+          "speakerId": "2345678901234567",
+          "topic": "Next Steps",
+          "sentences": [
+            {
+              "start": 305800,
+              "end": 312300,
+              "text": "Of course! Let's schedule a demo focused on multi-jurisdiction compliance."
+            },
+            {
+              "start": 312900,
+              "end": 319400,
+              "text": "I'll show GDPR controls, donor privacy features, and volunteer management."
+            }
+          ]
+        },
+        {
+          "speakerId": "3456789012345678",
+          "topic": "Next Steps",
+          "sentences": [
+            {
+              "start": 320000,
+              "end": 326500,
+              "text": "Perfect. Can we do Monday afternoon? I'll invite our IT lead too."
+            },
+            {
+              "start": 327100,
+              "end": 333600,
+              "text": "He's been worried about securing our field clinic data."
+            }
+          ]
+        },
+        {
+          "speakerId": "2345678901234567",
+          "topic": "Wrap-up",
+          "sentences": [
+            {
+              "start": 334200,
+              "end": 340700,
+              "text": "Monday afternoon works great! I'll send a calendar invite."
+            },
+            {
+              "start": 341300,
+              "end": 347800,
+              "text": "Thank you for the important work you do, Nancy!"
+            }
+          ]
+        },
+        {
+          "speakerId": "3456789012345678",
+          "topic": "Wrap-up",
+          "sentences": [
+            {
+              "start": 348400,
+              "end": 354900,
+              "text": "Thank you Emma! This could really help us focus on our mission."
+            },
+            {
+              "start": 355500,
+              "end": 360000,
+              "text": "Talk to you Monday. Bye!"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

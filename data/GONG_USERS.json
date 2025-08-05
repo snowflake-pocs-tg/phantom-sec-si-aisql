@@ -1,0 +1,779 @@
+{
+  "requestId": "users_req_9k3m5n7p1q3s5t7v",
+  "records": {
+    "totalRecords": 12,
+    "currentPageSize": 12,
+    "currentPageNumber": 0,
+    "cursor": "eyJhbGciOiJIUzI1NiJ9.eyJ1c2VySWQiOiI1Njc4OTAxMjM0NTY3ODkwIn0.o8Q0s2U4w6Y8a0C2"
+  },
+  "users": [
+    {
+      "id": "7829384756102938",
+      "emailAddress": "alex.thompson@phantomsec.com",
+      "created": "2022-03-15T09:30:00-07:00",
+      "active": true,
+      "emailAliases": [
+        "athompson@phantomsec.com",
+        "alex@phantomsec.com"
+      ],
+      "trustedEmailAddress": "alex.thompson@phantomsec.com",
+      "firstName": "Alex",
+      "lastName": "Thompson",
+      "title": "Senior Sales Executive - Compliance Solutions",
+      "phoneNumber": "+1 415-555-0142",
+      "extension": "742",
+      "personalMeetingUrls": [
+        "https://zoom.us/j/alexthompson",
+        "https://calendly.com/alex-phantom"
+      ],
+      "settings": {
+        "webConferencesRecorded": true,
+        "preventWebConferenceRecording": false,
+        "telephonyCallsImported": true,
+        "emailsImported": true,
+        "preventEmailImport": false,
+        "nonRecordedMeetingsImported": true,
+        "gongConnectEnabled": true
+      },
+      "managerId": "9876543210123456",
+      "meetingConsentPageUrl": "https://join.gong.io/phantom-sec/alex.thompson?tkn=Xk9mN3pQ5sT7vB1d",
+      "spokenLanguages": [
+        {
+          "language": "en-US",
+          "primary": true
+        }
+      ]
+    },
+    {
+      "id": "4923857610293847",
+      "emailAddress": "david.chen@techguard.io",
+      "created": "2021-06-22T11:45:00-05:00",
+      "active": true,
+      "emailAliases": [
+        "dchen@techguard.io",
+        "david.chen@techguardsolutions.com"
+      ],
+      "trustedEmailAddress": "david.chen@techguard.io",
+      "firstName": "David",
+      "lastName": "Chen",
+      "title": "Chief Information Security Officer",
+      "phoneNumber": "+1 512-555-0198",
+      "extension": null,
+      "personalMeetingUrls": [
+        "https://teams.microsoft.com/meet/david-chen",
+        "https://zoom.us/j/dchen-techguard"
+      ],
+      "settings": {
+        "webConferencesRecorded": true,
+        "preventWebConferenceRecording": false,
+        "telephonyCallsImported": false,
+        "emailsImported": true,
+        "preventEmailImport": false,
+        "nonRecordedMeetingsImported": true,
+        "gongConnectEnabled": true
+      },
+      "managerId": "1234567890987654",
+      "meetingConsentPageUrl": "https://join.gong.io/techguard/david.chen?tkn=Nm7pS3qR9tV1xD5h",
+      "spokenLanguages": [
+        {
+          "language": "en-US",
+          "primary": true
+        },
+        {
+          "language": "zh-CN",
+          "primary": false
+        }
+      ]
+    },
+    {
+      "id": "9182736450928374",
+      "emailAddress": "jamie.williams@phantomsec.com",
+      "created": "2023-01-10T08:15:00-08:00",
+      "active": true,
+      "emailAliases": [
+        "jwilliams@phantomsec.com",
+        "jamie@phantomsec.com"
+      ],
+      "trustedEmailAddress": "jamie.williams@phantomsec.com",
+      "firstName": "Jamie",
+      "lastName": "Williams",
+      "title": "Account Executive - Mid-Market",
+      "phoneNumber": "+1 415-555-0267",
+      "extension": "267",
+      "personalMeetingUrls": [
+        "https://zoom.us/j/jamiewilliams",
+        "https://calendly.com/jamie-phantomsec"
+      ],
+      "settings": {
+        "webConferencesRecorded": true,
+        "preventWebConferenceRecording": false,
+        "telephonyCallsImported": true,
+        "emailsImported": true,
+        "preventEmailImport": false,
+        "nonRecordedMeetingsImported": true,
+        "gongConnectEnabled": true
+      },
+      "managerId": "9876543210123456",
+      "meetingConsentPageUrl": "https://join.gong.io/phantom-sec/jamie.williams?tkn=Pk7nR5sT9vX3dF7j",
+      "spokenLanguages": [
+        {
+          "language": "en-US",
+          "primary": true
+        }
+      ]
+    },
+    {
+      "id": "6574839201847362",
+      "emailAddress": "sarah.martinez@cloudfirst.tech",
+      "created": "2020-09-03T14:20:00-07:00",
+      "active": true,
+      "emailAliases": [
+        "smartinez@cloudfirst.tech",
+        "sarah.m@cloudfirsttechnologies.com"
+      ],
+      "trustedEmailAddress": "sarah.martinez@cloudfirst.tech",
+      "firstName": "Sarah",
+      "lastName": "Martinez",
+      "title": "Vice President of Security",
+      "phoneNumber": "+1 206-555-0342",
+      "extension": null,
+      "personalMeetingUrls": [
+        "https://zoom.us/j/sarahmartinez-cf",
+        "https://meet.google.com/sarah-cloudfirst"
+      ],
+      "settings": {
+        "webConferencesRecorded": true,
+        "preventWebConferenceRecording": false,
+        "telephonyCallsImported": false,
+        "emailsImported": true,
+        "preventEmailImport": false,
+        "nonRecordedMeetingsImported": true,
+        "gongConnectEnabled": true
+      },
+      "managerId": "2345678901234567",
+      "meetingConsentPageUrl": "https://join.gong.io/cloudfirst/sarah.martinez?tkn=Qm8pT4rV2xY6eG8k",
+      "spokenLanguages": [
+        {
+          "language": "en-US",
+          "primary": true
+        },
+        {
+          "language": "es-MX",
+          "primary": false
+        }
+      ]
+    },
+    {
+      "id": "2847561029384756",
+      "emailAddress": "marcus.johnson@phantomsec.com",
+      "created": "2022-07-20T10:45:00-07:00",
+      "active": true,
+      "emailAliases": [
+        "mjohnson@phantomsec.com",
+        "marcus@phantomsec.com"
+      ],
+      "trustedEmailAddress": "marcus.johnson@phantomsec.com",
+      "firstName": "Marcus",
+      "lastName": "Johnson",
+      "title": "Healthcare Sales Specialist",
+      "phoneNumber": "+1 415-555-0389",
+      "extension": "389",
+      "personalMeetingUrls": [
+        "https://zoom.us/j/marcusjohnson",
+        "https://calendly.com/marcus-phantomsec"
+      ],
+      "settings": {
+        "webConferencesRecorded": true,
+        "preventWebConferenceRecording": false,
+        "telephonyCallsImported": true,
+        "emailsImported": true,
+        "preventEmailImport": false,
+        "nonRecordedMeetingsImported": true,
+        "gongConnectEnabled": true
+      },
+      "managerId": "9876543210123456",
+      "meetingConsentPageUrl": "https://join.gong.io/phantom-sec/marcus.johnson?tkn=Rm9sU5vX7zB1dF3h",
+      "spokenLanguages": [
+        {
+          "language": "en-US",
+          "primary": true
+        }
+      ]
+    },
+    {
+      "id": "9384756102847561",
+      "emailAddress": "raj.patel@medicore.health",
+      "created": "2022-01-15T13:30:00-06:00",
+      "active": true,
+      "emailAliases": [
+        "rpatel@medicore.health",
+        "dr.patel@medicorehealthsystems.com"
+      ],
+      "trustedEmailAddress": "raj.patel@medicore.health",
+      "firstName": "Raj",
+      "lastName": "Patel",
+      "title": "Chief Technology Officer",
+      "phoneNumber": "+1 713-555-0421",
+      "extension": null,
+      "personalMeetingUrls": [
+        "https://teams.microsoft.com/meet/raj-patel",
+        "https://zoom.us/j/drrajpatel"
+      ],
+      "settings": {
+        "webConferencesRecorded": true,
+        "preventWebConferenceRecording": false,
+        "telephonyCallsImported": false,
+        "emailsImported": true,
+        "preventEmailImport": false,
+        "nonRecordedMeetingsImported": true,
+        "gongConnectEnabled": true
+      },
+      "managerId": "3456789012345678",
+      "meetingConsentPageUrl": "https://join.gong.io/medicore/raj.patel?tkn=Sn0tW6yZ8cE2gH4k",
+      "spokenLanguages": [
+        {
+          "language": "en-US",
+          "primary": true
+        },
+        {
+          "language": "hi-IN",
+          "primary": false
+        }
+      ]
+    },
+    {
+      "id": "5678901234567890",
+      "emailAddress": "rachel.kim@phantomsec.com",
+      "created": "2021-11-08T09:20:00-08:00",
+      "active": true,
+      "emailAliases": [
+        "rkim@phantomsec.com",
+        "rachel@phantomsec.com"
+      ],
+      "trustedEmailAddress": "rachel.kim@phantomsec.com",
+      "firstName": "Rachel",
+      "lastName": "Kim",
+      "title": "Enterprise Account Executive - Financial Services",
+      "phoneNumber": "+1 415-555-0512",
+      "extension": "512",
+      "personalMeetingUrls": [
+        "https://zoom.us/j/rachelkim",
+        "https://calendly.com/rachel-phantomsec"
+      ],
+      "settings": {
+        "webConferencesRecorded": true,
+        "preventWebConferenceRecording": false,
+        "telephonyCallsImported": true,
+        "emailsImported": true,
+        "preventEmailImport": false,
+        "nonRecordedMeetingsImported": true,
+        "gongConnectEnabled": true
+      },
+      "managerId": "9876543210123456",
+      "meetingConsentPageUrl": "https://join.gong.io/phantom-sec/rachel.kim?tkn=Tn1uW7zY9dG3fJ5k",
+      "spokenLanguages": [
+        {
+          "language": "en-US",
+          "primary": true
+        },
+        {
+          "language": "ko-KR",
+          "primary": false
+        }
+      ]
+    },
+    {
+      "id": "3456789012345678",
+      "emailAddress": "linda.walker@meridianfinancial.com",
+      "created": "2019-04-12T14:15:00-05:00",
+      "active": true,
+      "emailAliases": [
+        "lwalker@meridianfinancial.com",
+        "linda.w@meridianwealth.com"
+      ],
+      "trustedEmailAddress": "linda.walker@meridianfinancial.com",
+      "firstName": "Linda",
+      "lastName": "Walker",
+      "title": "Chief Compliance Officer",
+      "phoneNumber": "+1 312-555-0687",
+      "extension": "687",
+      "personalMeetingUrls": [
+        "https://teams.microsoft.com/meet/linda-walker",
+        "https://meridianfinancial.zoom.us/j/lwalker"
+      ],
+      "settings": {
+        "webConferencesRecorded": true,
+        "preventWebConferenceRecording": false,
+        "telephonyCallsImported": true,
+        "emailsImported": true,
+        "preventEmailImport": false,
+        "nonRecordedMeetingsImported": true,
+        "gongConnectEnabled": true
+      },
+      "managerId": "8765432109876543",
+      "meetingConsentPageUrl": "https://join.gong.io/meridian/linda.walker?tkn=Un2vX8aZ0eH4gK6m",
+      "spokenLanguages": [
+        {
+          "language": "en-US",
+          "primary": true
+        }
+      ]
+    },
+    {
+      "id": "8901234567890123",
+      "emailAddress": "derek.chang@phantomsec.com",
+      "created": "2023-05-22T11:30:00-07:00",
+      "active": true,
+      "emailAliases": [
+        "dchang@phantomsec.com",
+        "derek@phantomsec.com"
+      ],
+      "trustedEmailAddress": "derek.chang@phantomsec.com",
+      "firstName": "Derek",
+      "lastName": "Chang",
+      "title": "Account Executive - Startups",
+      "phoneNumber": "+1 415-555-0623",
+      "extension": "623",
+      "personalMeetingUrls": [
+        "https://zoom.us/j/derekchang",
+        "https://calendly.com/derek-phantomsec"
+      ],
+      "settings": {
+        "webConferencesRecorded": true,
+        "preventWebConferenceRecording": false,
+        "telephonyCallsImported": true,
+        "emailsImported": true,
+        "preventEmailImport": false,
+        "nonRecordedMeetingsImported": true,
+        "gongConnectEnabled": true
+      },
+      "managerId": "9876543210123456",
+      "meetingConsentPageUrl": "https://join.gong.io/phantom-sec/derek.chang?tkn=Vn3wY9bA1fH5jL7n",
+      "spokenLanguages": [
+        {
+          "language": "en-US",
+          "primary": true
+        }
+      ]
+    },
+    {
+      "id": "4567890123456789",
+      "emailAddress": "tom.rodriguez@datavault.io",
+      "created": "2023-10-05T16:45:00-07:00",
+      "active": true,
+      "emailAliases": [
+        "trodriguez@datavault.io",
+        "tom@datavault.io"
+      ],
+      "trustedEmailAddress": "tom.rodriguez@datavault.io",
+      "firstName": "Tom",
+      "lastName": "Rodriguez",
+      "title": "Co-Founder & CTO",
+      "phoneNumber": "+1 650-555-0789",
+      "extension": null,
+      "personalMeetingUrls": [
+        "https://zoom.us/j/tomrodriguez",
+        "https://cal.com/tom-datavault"
+      ],
+      "settings": {
+        "webConferencesRecorded": true,
+        "preventWebConferenceRecording": false,
+        "telephonyCallsImported": false,
+        "emailsImported": true,
+        "preventEmailImport": false,
+        "nonRecordedMeetingsImported": true,
+        "gongConnectEnabled": true
+      },
+      "managerId": null,
+      "meetingConsentPageUrl": "https://join.gong.io/datavault/tom.rodriguez?tkn=Wo4xZ0cB2gI6kM8o",
+      "spokenLanguages": [
+        {
+          "language": "en-US",
+          "primary": true
+        },
+        {
+          "language": "es-US",
+          "primary": false
+        }
+      ]
+    },
+    {
+      "id": "7890123456789012",
+      "emailAddress": "lisa.chen@phantomsec.com",
+      "created": "2022-09-05T08:45:00-07:00",
+      "active": true,
+      "emailAliases": [
+        "lchen@phantomsec.com",
+        "lisa@phantomsec.com"
+      ],
+      "trustedEmailAddress": "lisa.chen@phantomsec.com",
+      "firstName": "Lisa",
+      "lastName": "Chen",
+      "title": "E-commerce Sales Specialist",
+      "phoneNumber": "+1 415-555-0734",
+      "extension": "734",
+      "personalMeetingUrls": [
+        "https://zoom.us/j/lisachen",
+        "https://calendly.com/lisa-phantomsec"
+      ],
+      "settings": {
+        "webConferencesRecorded": true,
+        "preventWebConferenceRecording": false,
+        "telephonyCallsImported": true,
+        "emailsImported": true,
+        "preventEmailImport": false,
+        "nonRecordedMeetingsImported": true,
+        "gongConnectEnabled": true
+      },
+      "managerId": "9876543210123456",
+      "meetingConsentPageUrl": "https://join.gong.io/phantom-sec/lisa.chen?tkn=Xo5yZ1cD3fJ7lN9p",
+      "spokenLanguages": [
+        {
+          "language": "en-US",
+          "primary": true
+        }
+      ]
+    },
+    {
+      "id": "5678901234567890",
+      "emailAddress": "maria.gonzalez@stylehub.com",
+      "created": "2021-03-18T10:30:00-05:00",
+      "active": true,
+      "emailAliases": [
+        "mgonzalez@stylehub.com",
+        "maria.g@stylehub.io"
+      ],
+      "trustedEmailAddress": "maria.gonzalez@stylehub.com",
+      "firstName": "Maria",
+      "lastName": "Gonzalez",
+      "title": "Head of Information Security",
+      "phoneNumber": "+1 305-555-0892",
+      "extension": null,
+      "personalMeetingUrls": [
+        "https://meet.google.com/maria-stylehub",
+        "https://stylehub.zoom.us/j/mgonzalez"
+      ],
+      "settings": {
+        "webConferencesRecorded": true,
+        "preventWebConferenceRecording": false,
+        "telephonyCallsImported": true,
+        "emailsImported": true,
+        "preventEmailImport": false,
+        "nonRecordedMeetingsImported": true,
+        "gongConnectEnabled": true
+      },
+      "managerId": "6789012345678901",
+      "meetingConsentPageUrl": "https://join.gong.io/stylehub/maria.gonzalez?tkn=Yo6zB2dE4gK8mO0q",
+      "spokenLanguages": [
+        {
+          "language": "en-US",
+          "primary": true
+        },
+        {
+          "language": "es-US",
+          "primary": false
+        }
+      ]
+    },
+    {
+      "id": "3456789012345678",
+      "emailAddress": "samantha.wright@phantomsec.com",
+      "created": "2023-02-12T09:15:00-08:00",
+      "active": true,
+      "emailAliases": [
+        "swright@phantomsec.com",
+        "samantha@phantomsec.com"
+      ],
+      "trustedEmailAddress": "samantha.wright@phantomsec.com",
+      "firstName": "Samantha",
+      "lastName": "Wright",
+      "title": "Education Sector Account Executive",
+      "phoneNumber": "+1 415-555-0845",
+      "extension": "845",
+      "personalMeetingUrls": [
+        "https://zoom.us/j/samanthawright",
+        "https://calendly.com/samantha-phantomsec"
+      ],
+      "settings": {
+        "webConferencesRecorded": true,
+        "preventWebConferenceRecording": false,
+        "telephonyCallsImported": true,
+        "emailsImported": true,
+        "preventEmailImport": false,
+        "nonRecordedMeetingsImported": true,
+        "gongConnectEnabled": true
+      },
+      "managerId": "9876543210123456",
+      "meetingConsentPageUrl": "https://join.gong.io/phantom-sec/samantha.wright?tkn=Zo7aB3eF5hL9nP1r",
+      "spokenLanguages": [
+        {
+          "language": "en-US",
+          "primary": true
+        }
+      ]
+    },
+    {
+      "id": "9012345678901234",
+      "emailAddress": "robert.taylor@edutechpro.com",
+      "created": "2022-06-23T13:45:00-06:00",
+      "active": true,
+      "emailAliases": [
+        "rtaylor@edutechpro.com",
+        "robert.t@edutechpro.io"
+      ],
+      "trustedEmailAddress": "robert.taylor@edutechpro.com",
+      "firstName": "Robert",
+      "lastName": "Taylor",
+      "title": "VP of Engineering",
+      "phoneNumber": "+1 720-555-0956",
+      "extension": "956",
+      "personalMeetingUrls": [
+        "https://zoom.us/j/roberttaylor-etp",
+        "https://calendly.com/robert-edutechpro"
+      ],
+      "settings": {
+        "webConferencesRecorded": true,
+        "preventWebConferenceRecording": false,
+        "telephonyCallsImported": false,
+        "emailsImported": true,
+        "preventEmailImport": false,
+        "nonRecordedMeetingsImported": true,
+        "gongConnectEnabled": true
+      },
+      "managerId": "7890123456789012",
+      "meetingConsentPageUrl": "https://join.gong.io/edutechpro/robert.taylor?tkn=Ap8bC4fG6iM0oQ2s",
+      "spokenLanguages": [
+        {
+          "language": "en-US",
+          "primary": true
+        }
+      ]
+    },
+    {
+      "id": "6789012345678901",
+      "emailAddress": "jennifer.davis@phantomsec.com",
+      "created": "2021-05-14T11:20:00-07:00",
+      "active": true,
+      "emailAliases": [
+        "jdavis@phantomsec.com",
+        "jennifer@phantomsec.com"
+      ],
+      "trustedEmailAddress": "jennifer.davis@phantomsec.com",
+      "firstName": "Jennifer",
+      "lastName": "Davis",
+      "title": "Logistics & Supply Chain Sales Lead",
+      "phoneNumber": "+1 415-555-0923",
+      "extension": "923",
+      "personalMeetingUrls": [
+        "https://zoom.us/j/jenniferdavis",
+        "https://calendly.com/jennifer-phantomsec"
+      ],
+      "settings": {
+        "webConferencesRecorded": true,
+        "preventWebConferenceRecording": false,
+        "telephonyCallsImported": true,
+        "emailsImported": true,
+        "preventEmailImport": false,
+        "nonRecordedMeetingsImported": true,
+        "gongConnectEnabled": true
+      },
+      "managerId": "9876543210123456",
+      "meetingConsentPageUrl": "https://join.gong.io/phantom-sec/jennifer.davis?tkn=Bp9cD5gH7jN1pR3t",
+      "spokenLanguages": [
+        {
+          "language": "en-US",
+          "primary": true
+        }
+      ]
+    },
+    {
+      "id": "2345678901234567",
+      "emailAddress": "mike.peterson@globalship.com",
+      "created": "2020-11-09T14:15:00-06:00",
+      "active": true,
+      "emailAliases": [
+        "mpeterson@globalship.com",
+        "mike.p@globalshiplogistics.com"
+      ],
+      "trustedEmailAddress": "mike.peterson@globalship.com",
+      "firstName": "Mike",
+      "lastName": "Peterson",
+      "title": "Chief Information Security Officer",
+      "phoneNumber": "+1 312-555-1067",
+      "extension": "1067",
+      "personalMeetingUrls": [
+        "https://teams.microsoft.com/meet/mike-peterson",
+        "https://globalship.zoom.us/j/mpeterson"
+      ],
+      "settings": {
+        "webConferencesRecorded": true,
+        "preventWebConferenceRecording": false,
+        "telephonyCallsImported": true,
+        "emailsImported": true,
+        "preventEmailImport": false,
+        "nonRecordedMeetingsImported": true,
+        "gongConnectEnabled": true
+      },
+      "managerId": "8901234567890123",
+      "meetingConsentPageUrl": "https://join.gong.io/globalship/mike.peterson?tkn=Cq0dE6hI8kO2qS4u",
+      "spokenLanguages": [
+        {
+          "language": "en-US",
+          "primary": true
+        }
+      ]
+    },
+    {
+      "id": "1234567890123456",
+      "emailAddress": "carlos.martinez@phantomsec.com",
+      "created": "2022-04-18T10:30:00-07:00",
+      "active": true,
+      "emailAliases": [
+        "cmartinez@phantomsec.com",
+        "carlos@phantomsec.com"
+      ],
+      "trustedEmailAddress": "carlos.martinez@phantomsec.com",
+      "firstName": "Carlos",
+      "lastName": "Martinez",
+      "title": "Manufacturing Industry Sales Executive",
+      "phoneNumber": "+1 415-555-1012",
+      "extension": "1012",
+      "personalMeetingUrls": [
+        "https://zoom.us/j/carlosmartinez",
+        "https://calendly.com/carlos-phantomsec"
+      ],
+      "settings": {
+        "webConferencesRecorded": true,
+        "preventWebConferenceRecording": false,
+        "telephonyCallsImported": true,
+        "emailsImported": true,
+        "preventEmailImport": false,
+        "nonRecordedMeetingsImported": true,
+        "gongConnectEnabled": true
+      },
+      "managerId": "9876543210123456",
+      "meetingConsentPageUrl": "https://join.gong.io/phantom-sec/carlos.martinez?tkn=Dr1eF7hJ9lP3rT5v",
+      "spokenLanguages": [
+        {
+          "language": "en-US",
+          "primary": true
+        },
+        {
+          "language": "es-MX",
+          "primary": false
+        }
+      ]
+    },
+    {
+      "id": "8901234567890123",
+      "emailAddress": "patricia.adams@precisionmfg.com",
+      "created": "2019-08-12T13:20:00-05:00",
+      "active": true,
+      "emailAliases": [
+        "padams@precisionmfg.com",
+        "patricia@precisionmanufacturing.com"
+      ],
+      "trustedEmailAddress": "patricia.adams@precisionmfg.com",
+      "firstName": "Patricia",
+      "lastName": "Adams",
+      "title": "Director of Information Technology",
+      "phoneNumber": "+1 313-555-1178",
+      "extension": "178",
+      "personalMeetingUrls": [
+        "https://teams.microsoft.com/meet/patricia-adams",
+        "https://precisionmfg.zoom.us/j/padams"
+      ],
+      "settings": {
+        "webConferencesRecorded": true,
+        "preventWebConferenceRecording": false,
+        "telephonyCallsImported": false,
+        "emailsImported": true,
+        "preventEmailImport": false,
+        "nonRecordedMeetingsImported": true,
+        "gongConnectEnabled": true
+      },
+      "managerId": "4567890123456789",
+      "meetingConsentPageUrl": "https://join.gong.io/precisionmfg/patricia.adams?tkn=Es2fG8iK0mQ4sU6w",
+      "spokenLanguages": [
+        {
+          "language": "en-US",
+          "primary": true
+        }
+      ]
+    },
+    {
+      "id": "2345678901234567",
+      "emailAddress": "emma.wilson@phantomsec.com",
+      "created": "2023-06-20T09:45:00-07:00",
+      "active": true,
+      "emailAliases": [
+        "ewilson@phantomsec.com",
+        "emma@phantomsec.com"
+      ],
+      "trustedEmailAddress": "emma.wilson@phantomsec.com",
+      "firstName": "Emma",
+      "lastName": "Wilson",
+      "title": "Non-Profit Sector Account Executive",
+      "phoneNumber": "+1 415-555-1089",
+      "extension": "1089",
+      "personalMeetingUrls": [
+        "https://zoom.us/j/emmawilson",
+        "https://calendly.com/emma-phantomsec"
+      ],
+      "settings": {
+        "webConferencesRecorded": true,
+        "preventWebConferenceRecording": false,
+        "telephonyCallsImported": true,
+        "emailsImported": true,
+        "preventEmailImport": false,
+        "nonRecordedMeetingsImported": true,
+        "gongConnectEnabled": true
+      },
+      "managerId": "9876543210123456",
+      "meetingConsentPageUrl": "https://join.gong.io/phantom-sec/emma.wilson?tkn=Fs3gH9jL1nR5tX7z",
+      "spokenLanguages": [
+        {
+          "language": "en-US",
+          "primary": true
+        }
+      ]
+    },
+    {
+      "id": "3456789012345678",
+      "emailAddress": "nancy.brown@globalhealth.org",
+      "created": "2018-11-30T11:15:00-05:00",
+      "active": true,
+      "emailAliases": [
+        "nbrown@globalhealth.org",
+        "nancy@globalhealthinitiative.org"
+      ],
+      "trustedEmailAddress": "nancy.brown@globalhealth.org",
+      "firstName": "Nancy",
+      "lastName": "Brown",
+      "title": "Director of Operations",
+      "phoneNumber": "+1 202-555-1234",
+      "extension": null,
+      "personalMeetingUrls": [
+        "https://meet.google.com/nancy-ghi",
+        "https://zoom.us/j/nancybrown-ghi"
+      ],
+      "settings": {
+        "webConferencesRecorded": true,
+        "preventWebConferenceRecording": false,
+        "telephonyCallsImported": false,
+        "emailsImported": true,
+        "preventEmailImport": false,
+        "nonRecordedMeetingsImported": true,
+        "gongConnectEnabled": true
+      },
+      "managerId": "5678901234567890",
+      "meetingConsentPageUrl": "https://join.gong.io/globalhealth/nancy.brown?tkn=Gt4hI0kM2oS6uY8A",
+      "spokenLanguages": [
+        {
+          "language": "en-US",
+          "primary": true
+        }
+      ]
+    }
+  ]
+}
