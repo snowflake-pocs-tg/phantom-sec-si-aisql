@@ -1,0 +1,7 @@
+# Hidden directories
+.claude/
+mcp_tools/
+samples/
+
+# OS files
+.DS_Store
